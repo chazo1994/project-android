@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BKDAC WEATHER</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="addlocation">ADD CITY</string>
+
+    // menu string menu
+    <string name="about">about</string>
+    <string name="setting">setting</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="title_activity_about">About</string>
+    <string name="aboutDesigner">About Designer</string>
+    <string name="addLocation">Add Location</string>
+
+
+
+    // about me
+    <string name="aboutme">About BKDAC</string>
+    <string name="detailAbout">Bach Khoa Development Application Club</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="myName">Nguyễn Văn Thịnh</string>
+    <string name="textMe">Class KSCLC K57 BKHN \n If you  kiss me, you will become my wife</string>
+    <string name="mySologan"> Do your best, the rest will come!</string>
+    //detail weatherDay
+    <string name="location">Hà Nội, Việt Nam</string>
+    <string name="main">Thời tiết:</string>
+    <string name="wind">Tốc độ gió:</string>
+    <string name="day">05/10/2015</string>
+    <string name="temp">30°C</string>
+    <string name="tempMaxMin">31C/29C</string>
+    <string name="title_activity_add_location">BKDAC WEATHER</string>
+
+    <string name="title_activity_about_me">AboutMe</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>

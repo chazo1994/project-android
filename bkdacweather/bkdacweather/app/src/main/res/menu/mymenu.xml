@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.thinh.bkdacweather.MainActivity">
+    <item android:id="@+id/itemAdd" android:title="@string/addLocation"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/itemSetting" android:title="@string/setting"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/itemAbout" android:title="@string/about"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/itemAboutMe" android:title="@string/aboutDesigner"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
