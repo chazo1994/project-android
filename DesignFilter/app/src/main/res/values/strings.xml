@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Design Filter</string>
+    <string name="titlePulse">Đáp ứng xung</string>
+    <string name="titleAmplipute">Đáp ứng biên độ</string>
+    <string name="titleG">Đáp ứng biên độ (DB)</string>
+    <string name="titleFrequency"> Đáp ứng pha</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_header">Thịnh</string>
+
+    <string name="filter1">Thông thấp và Thông cao</string>
+    <string name="filter2">Thông cao</string>
+    <string name="filter3">Thông dải và Chắn dải</string>
+    <string name="filter4">Chắn dải</string>
+
+    <!--event click humberger icon-->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_draw_filter">DrawFilter</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Low pass filter-->
+    <string name="lowPass"> LOW PASS FILTER</string>
+    <string name="hightPass"> HIGHT PASS FILTER</string>
+    <string name="bandPass"> BAND PASS FILTER</string>
+    <string name="btLowpassResult">Thông thấp</string>
+    <string name="btHightpassResult">Thông Cao</string>
+    <string name="btBandpassResult">Thông dải</string>
+    <string name="btBandstopResult">Chắn dải</string>
+    <string name="btReset">Reset</string>
+    <string name="maxPassBand">Dung sai dải thông(δP)</string>
+    <string name="minStopBand">Dung sai dải chắn (δS)</string>
+    <string name="constantMax">0.001</string>
+    <string name="constantMin">0.001</string>
+    <string name="constant">(π)</string>
+
+    <string name="passBand">Tần số thông (wp1)</string>
+    <string name="stopBand">Tần số chắn (ws1)</string>
+
+    <string name="passBand2">Tần số thông 2 (wp2)</string>
+    <string name="stopBand2">Tần số chắn 2 (ws2)</string>
+
+    <string name="notifation1">Yêu cầu nhập số thực</string>
+    <string name="notifation21">Yêu cầu ws1>wp1</string>
+    <string name="notifation22">Yêu cầu wp1>ws1</string>
+    <string name="notifation31">Yêu cầu wp1>ws1 và ws2>wp2</string>
+    <string name="notifation32">Yêu cầu ws1>wp1 và wp2>ws2</string>
+
+    <string name="title1">Thông thấp</string>
+
+    <string-array name="titles">
+        <item>Bộ lọc</item>
+        <item>Tín hiệu kiểm tra</item>
+    </string-array>
+</resources>

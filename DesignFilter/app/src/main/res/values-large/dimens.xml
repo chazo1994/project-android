@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">24dp</dimen>
+    <dimen name="activity_vertical_margin">24dp</dimen>
+    <!--Low pass fragment and band pass fragment-->
+    <dimen name="tv3D">270dp</dimen>
+    <dimen name="etDeltaPassD">261dp</dimen>
+    <dimen name="paddingTableTop">15dp</dimen>
+    <dimen name="paddingTableButton">15dp</dimen>
+    <dimen name="paddingLeftButton">15dp</dimen>
+    <dimen name="marginTv">15dp</dimen>
+
+    <!-- Dfilter -->
+    <dimen name="hightChart">750dp</dimen>
+</resources>

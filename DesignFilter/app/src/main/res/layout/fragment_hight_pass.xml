@@ -1,0 +1,122 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.thinh.designfilter.HightPassFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hightPass"
+            android:layout_gravity="center_horizontal" />
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:weightSum="1"
+            android:layout_marginTop="10dp">
+            <TextView
+                android:layout_width="180dp"
+                android:layout_height="wrap_content"
+                android:text="@string/maxPassBand"
+                android:id="@+id/textView3" />
+            <EditText
+                android:layout_width="174dp"
+                android:layout_height="wrap_content"
+                android:text="@string/constantMax"
+                android:id="@+id/etDeltaHightpass" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:weightSum="1"
+            android:layout_marginBottom="10dp">
+            <TextView
+                android:layout_width="180dp"
+                android:layout_height="wrap_content"
+                android:text="@string/maxPassBand"
+                android:id="@+id/textView4"/>
+
+            <EditText
+                android:layout_width="174dp"
+                android:layout_height="wrap_content"
+                android:text="@string/constantMin"
+                android:id="@+id/etDeltatHightstop" />
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:weightSum="1"
+            android:layout_marginTop="10dp">
+            <TextView
+                android:layout_width="180dp"
+                android:layout_height="wrap_content"
+                android:text="@string/passBand"
+                android:id="@+id/textView5"/>
+
+            <EditText
+                android:layout_width="174dp"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:id="@+id/etHightpassFequence" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/constant"
+                android:id="@+id/tvConstantPi2" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:weightSum="1">
+            <TextView
+                android:layout_width="180dp"
+                android:layout_height="wrap_content"
+                android:text="@string/stopBand"
+                android:id="@+id/textView6"/>
+
+            <EditText
+                android:layout_width="174dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/etHightstopFrequence" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/constant"
+                android:id="@+id/tvConstantPi3" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:weightSum="1"
+            android:paddingTop="10dp"
+            android:gravity="center_horizontal">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/btHightpassResult"
+                android:id="@+id/btHightResult" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/btReset"
+                android:id="@+id/btHightReset"
+                android:layout_marginLeft="10dp"/>
+        </TableRow>
+
+    </LinearLayout>
+</FrameLayout>

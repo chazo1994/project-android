@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!--Low pass fragment and band pass fragment-->
+    <dimen name="tv3D">180dp</dimen>
+    <dimen name="etDeltaPassD">174dp</dimen>
+    <dimen name="paddingTableTop">10dp</dimen>
+    <dimen name="paddingTableButton">10dp</dimen>
+    <dimen name="paddingLeftButton">10dp</dimen>
+    <dimen name="marginTv">10dp</dimen>
+
+    <!-- Dfilter -->
+    <dimen name="hightChart">500dp</dimen>
+</resources>

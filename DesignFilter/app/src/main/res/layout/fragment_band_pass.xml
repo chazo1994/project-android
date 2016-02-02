@@ -1,0 +1,180 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.thinh.designfilter.BandPassFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bandPass"
+            android:layout_gravity="center_horizontal" />
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:weightSum="1"
+            android:layout_marginTop="@dimen/paddingTableTop">
+            <TextView
+                android:layout_width="@dimen/tv3D"
+                android:layout_height="wrap_content"
+                android:text="@string/maxPassBand"
+                android:id="@+id/textView3" />
+            <EditText
+                android:layout_width="@dimen/etDeltaPassD"
+                android:layout_height="wrap_content"
+                android:text="@string/constantMax"
+                android:id="@+id/etDeltaPassPB"
+                android:inputType="numberDecimal"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:weightSum="1"
+            android:layout_marginBottom="@dimen/marginTv">
+            <TextView
+                android:layout_width="@dimen/tv3D"
+                android:layout_height="wrap_content"
+                android:text="@string/minStopBand"
+                android:id="@+id/textView4"/>
+
+            <EditText
+                android:layout_width="@dimen/etDeltaPassD"
+                android:layout_height="wrap_content"
+                android:text="@string/constantMin"
+                android:id="@+id/etDeltatStopPB"
+                android:inputType="numberDecimal"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:weightSum="1"
+            android:layout_marginTop="@dimen/marginTv">
+            <TextView
+                android:layout_width="@dimen/tv3D"
+                android:layout_height="wrap_content"
+                android:text="@string/passBand"
+                android:id="@+id/textView5"/>
+
+            <EditText
+                android:layout_width="@dimen/etDeltaPassD"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:id="@+id/etPassFequencePB"
+                android:inputType="numberDecimal"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/constant"
+                android:id="@+id/tvConstantPi2" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:weightSum="1">
+            <TextView
+                android:layout_width="@dimen/tv3D"
+                android:layout_height="wrap_content"
+                android:text="@string/stopBand"
+                android:id="@+id/textView6"/>
+
+            <EditText
+                android:layout_width="@dimen/etDeltaPassD"
+                android:layout_height="wrap_content"
+                android:id="@+id/etStopFrequencePB"
+                android:inputType="numberDecimal"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/constant"
+                android:id="@+id/tvConstantPi3" />
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:weightSum="1"
+            android:layout_marginTop="@dimen/marginTv">
+            <TextView
+                android:layout_width="@dimen/tv3D"
+                android:layout_height="wrap_content"
+                android:text="@string/passBand2"
+                android:id="@+id/textView8"/>
+
+            <EditText
+                android:layout_width="@dimen/etDeltaPassD"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:id="@+id/etPassFequencePB2"
+                android:inputType="numberDecimal"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/constant"
+                android:id="@+id/tvConstantPi2" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:weightSum="1">
+            <TextView
+                android:layout_width="@dimen/tv3D"
+                android:layout_height="wrap_content"
+                android:text="@string/stopBand2"
+                android:id="@+id/textView9"/>
+
+            <EditText
+                android:layout_width="@dimen/etDeltaPassD"
+                android:layout_height="wrap_content"
+                android:id="@+id/etStopFrequencePB2"
+                android:inputType="numberDecimal"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/constant"
+                android:id="@+id/tvConstantPi3" />
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:weightSum="1"
+            android:paddingTop="@dimen/paddingTableButton"
+            android:gravity="center_horizontal">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/btBandpassResult"
+                android:id="@+id/btBandpassResult" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/btBandstopResult"
+                android:id="@+id/btBandstopResult" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/btReset"
+                android:id="@+id/btBandpassReset"
+                android:layout_marginLeft="@dimen/paddingLeftButton"/>
+        </TableRow>
+
+    </LinearLayout>
+
+</FrameLayout>
