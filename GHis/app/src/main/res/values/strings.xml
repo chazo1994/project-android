@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">GHis</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_av1">av1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string-array name="titleTabs">
+        <item>Game Lịch sử</item>
+        <item>Học Lịch sử qua hoạt hình</item>
+    </string-array>
+
+    <string name="title_activity_main_game">Game History</string>
+    <string name="dummy_button">Trở lại trang chính</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="title_activity_game">GameActivity</string>
+
+    <string-array name="Listmoney">
+        <item>1 200</item>
+        <item>2 400</item>
+        <item>3 600</item>
+        <item>4 1,000</item>
+        <item>5 2,000</item>
+        <item>6 3,000</item>
+        <item>7 6,000</item>
+        <item>8 10,000</item>
+        <item>9 14,000</item>
+        <item>10 22,000</item>
+        <item>11 30,000</item>
+        <item>12 40,000</item>
+        <item>13 60,000</item>
+        <item>14 85,000</item>
+        <item>15 150,000</item>
+    </string-array>
+
+</resources>

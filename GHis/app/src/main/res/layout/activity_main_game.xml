@@ -1,0 +1,160 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="@drawable/allows"
+    tools:context="com.example.thinh.ghis.MainGame">
+
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc. -->
+    <TextView android:id="@+id/fullscreen_content" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:keepScreenOn="true" android:textColor="#33b5e5"
+        android:textStyle="bold" android:textSize="50sp" android:gravity="center"
+        android:text="" />
+
+    <!-- This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows. -->
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent"
+        android:fitsSystemWindows="true">
+
+        <LinearLayout android:id="@+id/fullscreen_content_controls" style="?metaButtonBarStyle"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:background="@color/black_overlay" android:orientation="horizontal"
+            tools:ignore="UselessParent">
+
+            <Button android:id="@+id/dummy_button" style="?metaButtonBarButtonStyle"
+                android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:text="@string/dummy_button" />
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            >
+            <TextView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:text="lịch sử việt nam"
+                android:textSize="20dp"
+                android:textColor="@android:color/black"
+                android:id="@+id/tvShowQuestion"
+                android:layout_gravity="center"
+                android:layout_marginTop="49dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="28dp"
+                android:layout_marginStart="28dp"
+                android:background="@drawable/customtextview"
+                />
+            <ListView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:id="@+id/lvScpre"
+                android:layout_alignTop="@+id/tvShowQuestion"
+                android:layout_toRightOf="@+id/tvShowQuestion"
+                android:layout_toEndOf="@+id/tvShowQuestion"
+                android:layout_above="@+id/tableLayout"
+                />
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:layout_centerVertical="true"
+                android:gravity="center"
+                android:layout_marginTop="15dp"
+                android:id="@+id/llHelp"
+                android:layout_below="@+id/tvShowQuestion"
+                android:backgroundTint="@android:color/transparent">
+                <ImageButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imgHaft"
+                    android:layout_column="0"
+                    android:src="@drawable/iconone"
+                    android:background="@android:color/transparent"
+                    android:layout_marginRight="10dp"
+                    />
+                <ImageButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imgPeople"
+                    android:layout_column="0"
+                    android:src="@drawable/icontwo"
+                    android:background="@android:color/transparent"/>
+                <ImageButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imgAudience"
+                    android:layout_column="0"
+                    android:src="@drawable/inconthree"
+                    android:background="@android:color/transparent"
+                    android:layout_marginLeft="10dp"/>
+
+            </LinearLayout>
+                <TableLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_below="@+id/llHelp"
+                    android:layout_alignParentBottom="true"
+                    android:id="@+id/tableLayout">
+
+                    <TableRow
+                        android:layout_marginTop="25dp">
+
+                        <Button
+                            android:layout_width="150dp"
+                            android:layout_height="40dp"
+                            android:text="A. là gì"
+                            android:id="@+id/btA"
+                            android:gravity="left|center_vertical"
+                            android:background="@drawable/btchoose"
+                            android:layout_marginLeft="30dp"
+                            />
+                        <Button
+                            android:layout_width="150dp"
+                            android:layout_height="40dp"
+                            android:text="B."
+                            android:id="@+id/btB"
+                            android:gravity="left|center_vertical"
+                            android:layout_marginRight="20dp"
+                            android:layout_marginEnd="27dp"
+                            android:background="@drawable/btchoose"
+                            android:layout_marginLeft="20dp"
+                            />
+
+                    </TableRow>
+                    <TableRow
+                        android:layout_marginTop="10dp">
+                        <Button
+                            android:layout_width="150dp"
+                            android:layout_height="40dp"
+                            android:text="C. mày là glgt gì"
+                            android:id="@+id/btC"
+                            android:gravity="left|center_vertical"
+                            android:background="@drawable/btchoose"
+                            android:layout_marginLeft="30dp"
+                            />
+
+                        <Button
+                            android:layout_width="150dp"
+                            android:layout_height="40dp"
+                            android:text="D."
+                            android:id="@+id/btD"
+                            android:gravity="left|center_vertical"
+                            android:background="@drawable/btchoose"
+                            android:layout_marginRight="20dp"
+                            android:layout_marginEnd="27dp"
+                            android:layout_marginLeft="20dp"/>
+                    </TableRow>
+
+                </TableLayout>
+
+        </RelativeLayout>
+    </FrameLayout>
+
+</FrameLayout>
