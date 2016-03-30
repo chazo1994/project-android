@@ -1,0 +1,1002 @@
+<s> moojt ngan khoong </s>
+<s> moojt ngan moojt </s>
+<s> moojt ngan hai </s>
+<s> moojt ngan ba </s>
+<s> moojt ngan bon </s>
+<s> moojt ngan nawm </s>
+<s> moojt ngan sasu </s>
+<s> moojt ngan baary </s>
+<s> moojt ngan tasm </s>
+<s> moojt ngan chisn </s>
+<s> moojt ngan muwowfi </s>
+<s> moojt ngan muwowfi moojt  </s>
+<s> moojt ngan muwowfi hai  </s>
+<s> moojt ngan muwowfi ba  </s>
+<s> moojt ngan muwowfi boosn  </s>
+<s> moojt ngan muwowfi nawm  </s>
+<s> moojt ngan muwowfi sasu  </s>
+<s> moojt ngan muwowfi baary  </s>
+<s> moojt ngan muwowfi tasm  </s>
+<s> moojt ngan muwowfi chisn  </s>
+<s> moojt ngan hai muwowi  </s>
+<s> moojt ngan hai moost  </s>
+<s> moojt ngan hai hai  </s>
+<s> moojt ngan hai ba  </s>
+<s> moojt ngan hai tuw  </s>
+<s> moojt ngan hai nawm  </s>
+<s> moojt ngan hai sasu  </s>
+<s> moojt ngan hai baary  </s>
+<s> moojt ngan hai tasm  </s>
+<s> moojt ngan hai chisn  </s>
+<s> moojt ngan ba muwowi  </s>
+<s> moojt ngan ba moost  </s>
+<s> moojt ngan ba hai  </s>
+<s> moojt ngan ba ba  </s>
+<s> moojt ngan ba tuw  </s>
+<s> moojt ngan ba nawm  </s>
+<s> moojt ngan ba sasu  </s>
+<s> moojt ngan ba baary  </s>
+<s> moojt ngan ba tasm  </s>
+<s> moojt ngan ba chisn  </s>
+<s> moojt ngan boosn muwowi  </s>
+<s> moojt ngan boosn moost  </s>
+<s> moojt ngan boosn hai  </s>
+<s> moojt ngan boosn ba  </s>
+<s> moojt ngan boosn tuw  </s>
+<s> moojt ngan boosn nawm  </s>
+<s> moojt ngan boosn sasu  </s>
+<s> moojt ngan boosn baary  </s>
+<s> moojt ngan boosn tasm  </s>
+<s> moojt ngan boosn chisn  </s>
+<s> moojt ngan nawm muwowi  </s>
+<s> moojt ngan nawm moost  </s>
+<s> moojt ngan nawm hai  </s>
+<s> moojt ngan nawm ba  </s>
+<s> moojt ngan nawm tuw  </s>
+<s> moojt ngan nawm nawm  </s>
+<s> moojt ngan nawm sasu  </s>
+<s> moojt ngan nawm baary  </s>
+<s> moojt ngan nawm tasm  </s>
+<s> moojt ngan nawm chisn  </s>
+<s> moojt ngan sasu muwowi  </s>
+<s> moojt ngan sasu moost  </s>
+<s> moojt ngan sasu hai  </s>
+<s> moojt ngan sasu ba  </s>
+<s> moojt ngan sasu tuw  </s>
+<s> moojt ngan sasu nawm  </s>
+<s> moojt ngan sasu sasu  </s>
+<s> moojt ngan sasu baary  </s>
+<s> moojt ngan sasu tasm  </s>
+<s> moojt ngan sasu chisn  </s>
+<s> moojt ngan baary muwowi  </s>
+<s> moojt ngan baary moost  </s>
+<s> moojt ngan baary hai  </s>
+<s> moojt ngan baary ba  </s>
+<s> moojt ngan baary tuw  </s>
+<s> moojt ngan baary nawm  </s>
+<s> moojt ngan baary sasu  </s>
+<s> moojt ngan baary baary  </s>
+<s> moojt ngan baary tasm  </s>
+<s> moojt ngan baary chisn  </s>
+<s> moojt ngan tasm muwowi  </s>
+<s> moojt ngan tasm moojt  </s>
+<s> moojt ngan tasm hai  </s>
+<s> moojt ngan tasm ba  </s>
+<s> moojt ngan tasm tuw  </s>
+<s> moojt ngan tasm nawm  </s>
+<s> moojt ngan tasm sasu  </s>
+<s> moojt ngan tasm baary  </s>
+<s> moojt ngan tasm tasm  </s>
+<s> moojt ngan tasm chisn  </s>
+<s> moojt ngan chisn muwowi  </s>
+<s> moojt ngan chisn moost  </s>
+<s> moojt ngan chisn hai  </s>
+<s> moojt ngan chisn ba  </s>
+<s> moojt ngan chisn tuw  </s>
+<s> moojt ngan chisn nawm  </s>
+<s> moojt ngan chisn sasu  </s>
+<s> moojt ngan chisn baary  </s>
+<s> moojt ngan chisn tasm  </s>
+<s> moojt ngan chisn chisn  </s>
+<s> moojt ngan moojt trawm </s>
+<s> moojt ngan moojt trawm linh moojt </s>
+<s> moojt ngan moojt trawm linh hai </s>
+<s> moojt ngan moojt trawm linh ba </s>
+<s> moojt ngan moojt trawm linh tuw </s>
+<s> moojt ngan moojt trawm linh nawm </s>
+<s> moojt ngan moojt trawm linh sasu </s>
+<s> moojt ngan moojt trawm linh baary </s>
+<s> moojt ngan moojt trawm linh tasm </s>
+<s> moojt ngan moojt trawm linh chisn </s>
+<s> moojt ngan moojt trawm muwowfi </s>
+<s> moojt ngan moojt trawm muwowfi moojt </s>
+<s> moojt ngan moojt trawm muwowfi hai </s>
+<s> moojt ngan moojt trawm muwowfi ba </s>
+<s> moojt ngan moojt trawm muwowfi boosn </s>
+<s> moojt ngan moojt trawm muwowfi nawm </s>
+<s> moojt ngan moojt trawm muwowfi sasu </s>
+<s> moojt ngan moojt trawm muwowfi baary </s>
+<s> moojt ngan moojt trawm muwowfi tasm </s>
+<s> moojt ngan moojt trawm muwowfi chisn </s>
+<s> moojt ngan moojt trawm hai muwowi </s>
+<s> moojt ngan moojt trawm hai moost </s>
+<s> moojt ngan moojt trawm hai hai </s>
+<s> moojt ngan moojt trawm hai ba </s>
+<s> moojt ngan moojt trawm hai tuw </s>
+<s> moojt ngan moojt trawm hai nawm </s>
+<s> moojt ngan moojt trawm hai sasu </s>
+<s> moojt ngan moojt trawm hai baary </s>
+<s> moojt ngan moojt trawm hai tasm </s>
+<s> moojt ngan moojt trawm hai chisn </s>
+<s> moojt ngan moojt trawm ba muwowi </s>
+<s> moojt ngan moojt trawm ba moost </s>
+<s> moojt ngan moojt trawm ba hai </s>
+<s> moojt ngan moojt trawm ba ba </s>
+<s> moojt ngan moojt trawm ba tuw </s>
+<s> moojt ngan moojt trawm ba nawm </s>
+<s> moojt ngan moojt trawm ba sasu </s>
+<s> moojt ngan moojt trawm ba baary </s>
+<s> moojt ngan moojt trawm ba tasm </s>
+<s> moojt ngan moojt trawm ba chisn </s>
+<s> moojt ngan moojt trawm boosn muwowi </s>
+<s> moojt ngan moojt trawm boosn moost </s>
+<s> moojt ngan moojt trawm boosn hai </s>
+<s> moojt ngan moojt trawm boosn ba </s>
+<s> moojt ngan moojt trawm boosn tuw </s>
+<s> moojt ngan moojt trawm boosn nawm </s>
+<s> moojt ngan moojt trawm boosn sasu </s>
+<s> moojt ngan moojt trawm boosn baary </s>
+<s> moojt ngan moojt trawm boosn tasm </s>
+<s> moojt ngan moojt trawm boosn chisn </s>
+<s> moojt ngan moojt trawm nawm muwowi </s>
+<s> moojt ngan moojt trawm nawm moost </s>
+<s> moojt ngan moojt trawm nawm hai </s>
+<s> moojt ngan moojt trawm nawm ba </s>
+<s> moojt ngan moojt trawm nawm tuw </s>
+<s> moojt ngan moojt trawm nawm nawm </s>
+<s> moojt ngan moojt trawm nawm sasu </s>
+<s> moojt ngan moojt trawm nawm baary </s>
+<s> moojt ngan moojt trawm nawm tasm </s>
+<s> moojt ngan moojt trawm nawm chisn </s>
+<s> moojt ngan moojt trawm sasu muwowi </s>
+<s> moojt ngan moojt trawm sasu moost </s>
+<s> moojt ngan moojt trawm sasu hai </s>
+<s> moojt ngan moojt trawm sasu ba </s>
+<s> moojt ngan moojt trawm sasu tuw </s>
+<s> moojt ngan moojt trawm sasu nawm </s>
+<s> moojt ngan moojt trawm sasu sasu </s>
+<s> moojt ngan moojt trawm sasu baary </s>
+<s> moojt ngan moojt trawm sasu tasm </s>
+<s> moojt ngan moojt trawm sasu chisn </s>
+<s> moojt ngan moojt trawm baary muwowi </s>
+<s> moojt ngan moojt trawm baary moost </s>
+<s> moojt ngan moojt trawm baary hai </s>
+<s> moojt ngan moojt trawm baary ba </s>
+<s> moojt ngan moojt trawm baary tuw </s>
+<s> moojt ngan moojt trawm baary nawm </s>
+<s> moojt ngan moojt trawm baary sasu </s>
+<s> moojt ngan moojt trawm baary baary </s>
+<s> moojt ngan moojt trawm baary tasm </s>
+<s> moojt ngan moojt trawm baary chisn </s>
+<s> moojt ngan moojt trawm tasm muwowi </s>
+<s> moojt ngan moojt trawm tasm moost </s>
+<s> moojt ngan moojt trawm tasm hai </s>
+<s> moojt ngan moojt trawm tasm ba </s>
+<s> moojt ngan moojt trawm tasm tuw </s>
+<s> moojt ngan moojt trawm tasm nawm </s>
+<s> moojt ngan moojt trawm tasm sasu </s>
+<s> moojt ngan moojt trawm tasm baary </s>
+<s> moojt ngan moojt trawm tasm tasm </s>
+<s> moojt ngan moojt trawm tasm chisn </s>
+<s> moojt ngan moojt trawm chisn muwowi </s>
+<s> moojt ngan moojt trawm chisn moost </s>
+<s> moojt ngan moojt trawm chisn hai </s>
+<s> moojt ngan moojt trawm chisn ba </s>
+<s> moojt ngan moojt trawm chisn tuw </s>
+<s> moojt ngan moojt trawm chisn nawm </s>
+<s> moojt ngan moojt trawm chisn sasu </s>
+<s> moojt ngan moojt trawm chisn baary </s>
+<s> moojt ngan moojt trawm chisn tasm </s>
+<s> moojt ngan moojt trawm chisn chisn </s>
+<s> moojt ngan hai trawm </s>
+<s> moojt ngan hai trawm linh moojt </s>
+<s> moojt ngan hai trawm linh hai </s>
+<s> moojt ngan hai trawm linh ba </s>
+<s> moojt ngan hai trawm linh tuw </s>
+<s> moojt ngan hai trawm linh nawm </s>
+<s> moojt ngan hai trawm linh sasu </s>
+<s> moojt ngan hai trawm linh baary </s>
+<s> moojt ngan hai trawm linh tasm </s>
+<s> moojt ngan hai trawm linh chisn </s>
+<s> moojt ngan hai trawm muwowfi </s>
+<s> moojt ngan hai trawm muwowfi moojt </s>
+<s> moojt ngan hai trawm muwowfi hai </s>
+<s> moojt ngan hai trawm muwowfi ba </s>
+<s> moojt ngan hai trawm muwowfi boosn </s>
+<s> moojt ngan hai trawm muwowfi nawm </s>
+<s> moojt ngan hai trawm muwowfi sasu </s>
+<s> moojt ngan hai trawm muwowfi baary </s>
+<s> moojt ngan hai trawm muwowfi tasm </s>
+<s> moojt ngan hai trawm muwowfi chisn </s>
+<s> moojt ngan hai trawm hai muwowi </s>
+<s> moojt ngan hai trawm hai moost </s>
+<s> moojt ngan hai trawm hai hai </s>
+<s> moojt ngan hai trawm hai ba </s>
+<s> moojt ngan hai trawm hai tuw </s>
+<s> moojt ngan hai trawm hai nawm </s>
+<s> moojt ngan hai trawm hai sasu </s>
+<s> moojt ngan hai trawm hai baary </s>
+<s> moojt ngan hai trawm hai tasm </s>
+<s> moojt ngan hai trawm hai chisn </s>
+<s> moojt ngan hai trawm ba muwowi </s>
+<s> moojt ngan hai trawm ba moost </s>
+<s> moojt ngan hai trawm ba hai </s>
+<s> moojt ngan hai trawm ba ba </s>
+<s> moojt ngan hai trawm ba tuw </s>
+<s> moojt ngan hai trawm ba nawm </s>
+<s> moojt ngan hai trawm ba sasu </s>
+<s> moojt ngan hai trawm ba baary </s>
+<s> moojt ngan hai trawm ba tasm </s>
+<s> moojt ngan hai trawm ba chisn </s>
+<s> moojt ngan hai trawm boosn muwowi </s>
+<s> moojt ngan hai trawm boosn moost </s>
+<s> moojt ngan hai trawm boosn hai </s>
+<s> moojt ngan hai trawm boosn ba </s>
+<s> moojt ngan hai trawm boosn tuw </s>
+<s> moojt ngan hai trawm boosn nawm </s>
+<s> moojt ngan hai trawm boosn sasu </s>
+<s> moojt ngan hai trawm boosn baary </s>
+<s> moojt ngan hai trawm boosn tasm </s>
+<s> moojt ngan hai trawm boosn chisn </s>
+<s> moojt ngan hai trawm nawm muwowi </s>
+<s> moojt ngan hai trawm nawm moost </s>
+<s> moojt ngan hai trawm nawm hai </s>
+<s> moojt ngan hai trawm nawm ba </s>
+<s> moojt ngan hai trawm nawm tuw </s>
+<s> moojt ngan hai trawm nawm nawm </s>
+<s> moojt ngan hai trawm nawm sasu </s>
+<s> moojt ngan hai trawm nawm baary </s>
+<s> moojt ngan hai trawm nawm tasm </s>
+<s> moojt ngan hai trawm nawm chisn </s>
+<s> moojt ngan hai trawm sasu muwowi </s>
+<s> moojt ngan hai trawm sasu moost </s>
+<s> moojt ngan hai trawm sasu hai </s>
+<s> moojt ngan hai trawm sasu ba </s>
+<s> moojt ngan hai trawm sasu tuw </s>
+<s> moojt ngan hai trawm sasu nawm </s>
+<s> moojt ngan hai trawm sasu sasu </s>
+<s> moojt ngan hai trawm sasu baary </s>
+<s> moojt ngan hai trawm sasu tasm </s>
+<s> moojt ngan hai trawm sasu chisn </s>
+<s> moojt ngan hai trawm baary muwowi </s>
+<s> moojt ngan hai trawm baary moost </s>
+<s> moojt ngan hai trawm baary hai </s>
+<s> moojt ngan hai trawm baary ba </s>
+<s> moojt ngan hai trawm baary tuw </s>
+<s> moojt ngan hai trawm baary nawm </s>
+<s> moojt ngan hai trawm baary sasu </s>
+<s> moojt ngan hai trawm baary baary </s>
+<s> moojt ngan hai trawm baary tasm </s>
+<s> moojt ngan hai trawm baary chisn </s>
+<s> moojt ngan hai trawm tasm muwowi </s>
+<s> moojt ngan hai trawm tasm moost </s>
+<s> moojt ngan hai trawm tasm hai </s>
+<s> moojt ngan hai trawm tasm ba </s>
+<s> moojt ngan hai trawm tasm tuw </s>
+<s> moojt ngan hai trawm tasm nawm </s>
+<s> moojt ngan hai trawm tasm sasu </s>
+<s> moojt ngan hai trawm tasm baary </s>
+<s> moojt ngan hai trawm tasm tasm </s>
+<s> moojt ngan hai trawm tasm chisn </s>
+<s> moojt ngan hai trawm chisn muwowi </s>
+<s> moojt ngan hai trawm chisn moost </s>
+<s> moojt ngan hai trawm chisn hai </s>
+<s> moojt ngan hai trawm chisn ba </s>
+<s> moojt ngan hai trawm chisn tuw </s>
+<s> moojt ngan hai trawm chisn nawm </s>
+<s> moojt ngan hai trawm chisn sasu </s>
+<s> moojt ngan hai trawm chisn baary </s>
+<s> moojt ngan hai trawm chisn tasm </s>
+<s> moojt ngan hai trawm chisn chisn </s>
+<s> moojt ngan ba trawm </s>
+<s> moojt ngan ba trawm linh moojt </s>
+<s> moojt ngan ba trawm linh hai </s>
+<s> moojt ngan ba trawm linh ba </s>
+<s> moojt ngan ba trawm linh tuw </s>
+<s> moojt ngan ba trawm linh nawm </s>
+<s> moojt ngan ba trawm linh sasu </s>
+<s> moojt ngan ba trawm linh baary </s>
+<s> moojt ngan ba trawm linh tasm </s>
+<s> moojt ngan ba trawm linh chisn </s>
+<s> moojt ngan ba trawm muwowfi </s>
+<s> moojt ngan ba trawm muwowfi moojt </s>
+<s> moojt ngan ba trawm muwowfi hai </s>
+<s> moojt ngan ba trawm muwowfi ba </s>
+<s> moojt ngan ba trawm muwowfi boosn </s>
+<s> moojt ngan ba trawm muwowfi nawm </s>
+<s> moojt ngan ba trawm muwowfi sasu </s>
+<s> moojt ngan ba trawm muwowfi baary </s>
+<s> moojt ngan ba trawm muwowfi tasm </s>
+<s> moojt ngan ba trawm muwowfi chisn </s>
+<s> moojt ngan ba trawm hai muwowi </s>
+<s> moojt ngan ba trawm hai moost </s>
+<s> moojt ngan ba trawm hai hai </s>
+<s> moojt ngan ba trawm hai ba </s>
+<s> moojt ngan ba trawm hai tuw </s>
+<s> moojt ngan ba trawm hai nawm </s>
+<s> moojt ngan ba trawm hai sasu </s>
+<s> moojt ngan ba trawm hai baary </s>
+<s> moojt ngan ba trawm hai tasm </s>
+<s> moojt ngan ba trawm hai chisn </s>
+<s> moojt ngan ba trawm ba muwowi </s>
+<s> moojt ngan ba trawm ba moost </s>
+<s> moojt ngan ba trawm ba hai </s>
+<s> moojt ngan ba trawm ba ba </s>
+<s> moojt ngan ba trawm ba tuw </s>
+<s> moojt ngan ba trawm ba nawm </s>
+<s> moojt ngan ba trawm ba sasu </s>
+<s> moojt ngan ba trawm ba baary </s>
+<s> moojt ngan ba trawm ba tasm </s>
+<s> moojt ngan ba trawm ba chisn </s>
+<s> moojt ngan ba trawm boosn muwowi </s>
+<s> moojt ngan ba trawm boosn moost </s>
+<s> moojt ngan ba trawm boosn hai </s>
+<s> moojt ngan ba trawm boosn ba </s>
+<s> moojt ngan ba trawm boosn tuw </s>
+<s> moojt ngan ba trawm boosn nawm </s>
+<s> moojt ngan ba trawm boosn sasu </s>
+<s> moojt ngan ba trawm boosn baary </s>
+<s> moojt ngan ba trawm boosn tasm </s>
+<s> moojt ngan ba trawm boosn chisn </s>
+<s> moojt ngan ba trawm nawm muwowi </s>
+<s> moojt ngan ba trawm nawm moost </s>
+<s> moojt ngan ba trawm nawm hai </s>
+<s> moojt ngan ba trawm nawm ba </s>
+<s> moojt ngan ba trawm nawm tuw </s>
+<s> moojt ngan ba trawm nawm nawm </s>
+<s> moojt ngan ba trawm nawm sasu </s>
+<s> moojt ngan ba trawm nawm baary </s>
+<s> moojt ngan ba trawm nawm tasm </s>
+<s> moojt ngan ba trawm nawm chisn </s>
+<s> moojt ngan ba trawm sasu muwowi </s>
+<s> moojt ngan ba trawm sasu moost </s>
+<s> moojt ngan ba trawm sasu hai </s>
+<s> moojt ngan ba trawm sasu ba </s>
+<s> moojt ngan ba trawm sasu tuw </s>
+<s> moojt ngan ba trawm sasu nawm </s>
+<s> moojt ngan ba trawm sasu sasu </s>
+<s> moojt ngan ba trawm sasu baary </s>
+<s> moojt ngan ba trawm sasu tasm </s>
+<s> moojt ngan ba trawm sasu chisn </s>
+<s> moojt ngan ba trawm baary muwowi </s>
+<s> moojt ngan ba trawm baary moost </s>
+<s> moojt ngan ba trawm baary hai </s>
+<s> moojt ngan ba trawm baary ba </s>
+<s> moojt ngan ba trawm baary tuw </s>
+<s> moojt ngan ba trawm baary nawm </s>
+<s> moojt ngan ba trawm baary sasu </s>
+<s> moojt ngan ba trawm baary baary </s>
+<s> moojt ngan ba trawm baary tasm </s>
+<s> moojt ngan ba trawm baary chisn </s>
+<s> moojt ngan ba trawm tasm muwowi </s>
+<s> moojt ngan ba trawm tasm moost </s>
+<s> moojt ngan ba trawm tasm hai </s>
+<s> moojt ngan ba trawm tasm ba </s>
+<s> moojt ngan ba trawm tasm tuw </s>
+<s> moojt ngan ba trawm tasm nawm </s>
+<s> moojt ngan ba trawm tasm sasu </s>
+<s> moojt ngan ba trawm tasm baary </s>
+<s> moojt ngan ba trawm tasm tasm </s>
+<s> moojt ngan ba trawm tasm chisn </s>
+<s> moojt ngan ba trawm chisn muwowi </s>
+<s> moojt ngan ba trawm chisn moost </s>
+<s> moojt ngan ba trawm chisn hai </s>
+<s> moojt ngan ba trawm chisn ba </s>
+<s> moojt ngan ba trawm chisn tuw </s>
+<s> moojt ngan ba trawm chisn nawm </s>
+<s> moojt ngan ba trawm chisn sasu </s>
+<s> moojt ngan ba trawm chisn baary </s>
+<s> moojt ngan ba trawm chisn tasm </s>
+<s> moojt ngan ba trawm chisn chisn </s>
+<s> moojt ngan boosn trawm </s>
+<s> moojt ngan boosn trawm linh moojt </s>
+<s> moojt ngan boosn trawm linh hai </s>
+<s> moojt ngan boosn trawm linh ba </s>
+<s> moojt ngan boosn trawm linh tuw </s>
+<s> moojt ngan boosn trawm linh nawm </s>
+<s> moojt ngan boosn trawm linh sasu </s>
+<s> moojt ngan boosn trawm linh baary </s>
+<s> moojt ngan boosn trawm linh tasm </s>
+<s> moojt ngan boosn trawm linh chisn </s>
+<s> moojt ngan boosn trawm muwowfi </s>
+<s> moojt ngan boosn trawm muwowfi moojt </s>
+<s> moojt ngan boosn trawm muwowfi hai </s>
+<s> moojt ngan boosn trawm muwowfi ba </s>
+<s> moojt ngan boosn trawm muwowfi boosn </s>
+<s> moojt ngan boosn trawm muwowfi nawm </s>
+<s> moojt ngan boosn trawm muwowfi sasu </s>
+<s> moojt ngan boosn trawm muwowfi baary </s>
+<s> moojt ngan boosn trawm muwowfi tasm </s>
+<s> moojt ngan boosn trawm muwowfi chisn </s>
+<s> moojt ngan boosn trawm hai muwowi </s>
+<s> moojt ngan boosn trawm hai moost </s>
+<s> moojt ngan boosn trawm hai hai </s>
+<s> moojt ngan boosn trawm hai ba </s>
+<s> moojt ngan boosn trawm hai tuw </s>
+<s> moojt ngan boosn trawm hai nawm </s>
+<s> moojt ngan boosn trawm hai sasu </s>
+<s> moojt ngan boosn trawm hai baary </s>
+<s> moojt ngan boosn trawm hai tasm </s>
+<s> moojt ngan boosn trawm hai chisn </s>
+<s> moojt ngan boosn trawm ba muwowi </s>
+<s> moojt ngan boosn trawm ba moost </s>
+<s> moojt ngan boosn trawm ba hai </s>
+<s> moojt ngan boosn trawm ba ba </s>
+<s> moojt ngan boosn trawm ba tuw </s>
+<s> moojt ngan boosn trawm ba nawm </s>
+<s> moojt ngan boosn trawm ba sasu </s>
+<s> moojt ngan boosn trawm ba baary </s>
+<s> moojt ngan boosn trawm ba tasm </s>
+<s> moojt ngan boosn trawm ba chisn </s>
+<s> moojt ngan boosn trawm boosn muwowi </s>
+<s> moojt ngan boosn trawm boosn moost </s>
+<s> moojt ngan boosn trawm boosn hai </s>
+<s> moojt ngan boosn trawm boosn ba </s>
+<s> moojt ngan boosn trawm boosn tuw </s>
+<s> moojt ngan boosn trawm boosn nawm </s>
+<s> moojt ngan boosn trawm boosn sasu </s>
+<s> moojt ngan boosn trawm boosn baary </s>
+<s> moojt ngan boosn trawm boosn tasm </s>
+<s> moojt ngan boosn trawm boosn chisn </s>
+<s> moojt ngan boosn trawm nawm muwowi </s>
+<s> moojt ngan boosn trawm nawm moost </s>
+<s> moojt ngan boosn trawm nawm hai </s>
+<s> moojt ngan boosn trawm nawm ba </s>
+<s> moojt ngan boosn trawm nawm tuw </s>
+<s> moojt ngan boosn trawm nawm nawm </s>
+<s> moojt ngan boosn trawm nawm sasu </s>
+<s> moojt ngan boosn trawm nawm baary </s>
+<s> moojt ngan boosn trawm nawm tasm </s>
+<s> moojt ngan boosn trawm nawm chisn </s>
+<s> moojt ngan boosn trawm sasu muwowi </s>
+<s> moojt ngan boosn trawm sasu moost </s>
+<s> moojt ngan boosn trawm sasu hai </s>
+<s> moojt ngan boosn trawm sasu ba </s>
+<s> moojt ngan boosn trawm sasu tuw </s>
+<s> moojt ngan boosn trawm sasu nawm </s>
+<s> moojt ngan boosn trawm sasu sasu </s>
+<s> moojt ngan boosn trawm sasu baary </s>
+<s> moojt ngan boosn trawm sasu tasm </s>
+<s> moojt ngan boosn trawm sasu chisn </s>
+<s> moojt ngan boosn trawm baary muwow  </s>
+<s> moojt ngan boosn trawm baary moost </s>
+<s> moojt ngan boosn trawm baary hai </s>
+<s> moojt ngan boosn trawm baary ba </s>
+<s> moojt ngan boosn trawm baary tuw </s>
+<s> moojt ngan boosn trawm baary nawm </s>
+<s> moojt ngan boosn trawm baary sasu </s>
+<s> moojt ngan boosn trawm baary baary </s>
+<s> moojt ngan boosn trawm baary tasm </s>
+<s> moojt ngan boosn trawm baary chisn </s>
+<s> moojt ngan boosn trawm tasm muwowi </s>
+<s> moojt ngan boosn trawm tasm moost </s>
+<s> moojt ngan boosn trawm tasm hai </s>
+<s> moojt ngan boosn trawm tasm ba </s>
+<s> moojt ngan boosn trawm tasm tuw </s>
+<s> moojt ngan boosn trawm tasm nawm </s>
+<s> moojt ngan boosn trawm tasm sasu </s>
+<s> moojt ngan boosn trawm tasm baary </s>
+<s> moojt ngan boosn trawm tasm tasm </s>
+<s> moojt ngan boosn trawm tasm chisn </s>
+<s> moojt ngan boosn trawm chisn muwowi </s>
+<s> moojt ngan boosn trawm chisn moost </s>
+<s> moojt ngan boosn trawm chisn hai </s>
+<s> moojt ngan boosn trawm chisn ba </s>
+<s> moojt ngan boosn trawm chisn tuw </s>
+<s> moojt ngan boosn trawm chisn nawm </s>
+<s> moojt ngan boosn trawm chisn sasu </s>
+<s> moojt ngan boosn trawm chisn baary </s>
+<s> moojt ngan boosn trawm chisn tasm </s>
+<s> moojt ngan boosn trawm chisn chisn </s>
+<s> moojt ngan nawm trawm </s>
+<s> moojt ngan nawm trawm linh moojt </s>
+<s> moojt ngan nawm trawm linh hai </s>
+<s> moojt ngan nawm trawm linh ba </s>
+<s> moojt ngan nawm trawm linh tuw </s>
+<s> moojt ngan nawm trawm linh nawm </s>
+<s> moojt ngan nawm trawm linh sasu </s>
+<s> moojt ngan nawm trawm linh baary </s>
+<s> moojt ngan nawm trawm linh tasm </s>
+<s> moojt ngan nawm trawm linh chisn </s>
+<s> moojt ngan nawm trawm muwowfi </s>
+<s> moojt ngan nawm trawm muwowfi moojt </s>
+<s> moojt ngan nawm trawm muwowfi hai </s>
+<s> moojt ngan nawm trawm muwowfi ba </s>
+<s> moojt ngan nawm trawm muwowfi boosn </s>
+<s> moojt ngan nawm trawm muwowfi nawm </s>
+<s> moojt ngan nawm trawm muwowfi sasu </s>
+<s> moojt ngan nawm trawm muwowfi baary </s>
+<s> moojt ngan nawm trawm muwowfi tasm </s>
+<s> moojt ngan nawm trawm muwowfi chisn </s>
+<s> moojt ngan nawm trawm hai muwowi </s>
+<s> moojt ngan nawm trawm hai moost </s>
+<s> moojt ngan nawm trawm hai hai </s>
+<s> moojt ngan nawm trawm hai ba </s>
+<s> moojt ngan nawm trawm hai tuw </s>
+<s> moojt ngan nawm trawm hai nawm </s>
+<s> moojt ngan nawm trawm hai sasu </s>
+<s> moojt ngan nawm trawm hai baary </s>
+<s> moojt ngan nawm trawm hai tasm </s>
+<s> moojt ngan nawm trawm hai chisn </s>
+<s> moojt ngan nawm trawm ba muwowi </s>
+<s> moojt ngan nawm trawm ba moost </s>
+<s> moojt ngan nawm trawm ba hai </s>
+<s> moojt ngan nawm trawm ba ba </s>
+<s> moojt ngan nawm trawm ba tuw </s>
+<s> moojt ngan nawm trawm ba nawm </s>
+<s> moojt ngan nawm trawm ba sasu </s>
+<s> moojt ngan nawm trawm ba baary </s>
+<s> moojt ngan nawm trawm ba tasm </s>
+<s> moojt ngan nawm trawm ba chisn </s>
+<s> moojt ngan nawm trawm boosn muwowi </s>
+<s> moojt ngan nawm trawm boosn moost </s>
+<s> moojt ngan nawm trawm boosn hai </s>
+<s> moojt ngan nawm trawm boosn ba </s>
+<s> moojt ngan nawm trawm boosn tuw </s>
+<s> moojt ngan nawm trawm boosn nawm </s>
+<s> moojt ngan nawm trawm boosn sasu </s>
+<s> moojt ngan nawm trawm boosn baary </s>
+<s> moojt ngan nawm trawm boosn tasm </s>
+<s> moojt ngan nawm trawm boosn chisn </s>
+<s> moojt ngan nawm trawm nawm muwowi </s>
+<s> moojt ngan nawm trawm nawm moost </s>
+<s> moojt ngan nawm trawm nawm hai </s>
+<s> moojt ngan nawm trawm nawm ba </s>
+<s> moojt ngan nawm trawm nawm tuw </s>
+<s> moojt ngan nawm trawm nawm nawm </s>
+<s> moojt ngan nawm trawm nawm sasu </s>
+<s> moojt ngan nawm trawm nawm baary </s>
+<s> moojt ngan nawm trawm nawm tasm </s>
+<s> moojt ngan nawm trawm nawm chisn </s>
+<s> moojt ngan nawm trawm sasu muwowi </s>
+<s> moojt ngan nawm trawm sasu moost </s>
+<s> moojt ngan nawm trawm sasu hai </s>
+<s> moojt ngan nawm trawm sasu ba </s>
+<s> moojt ngan nawm trawm sasu tuw </s>
+<s> moojt ngan nawm trawm sasu nawm </s>
+<s> moojt ngan nawm trawm sasu sasu </s>
+<s> moojt ngan nawm trawm sasu baary </s>
+<s> moojt ngan nawm trawm sasu tasm </s>
+<s> moojt ngan nawm trawm sasu chisn </s>
+<s> moojt ngan nawm trawm baary muwowi </s>
+<s> moojt ngan nawm trawm baary moost </s>
+<s> moojt ngan nawm trawm baary hai </s>
+<s> moojt ngan nawm trawm baary ba </s>
+<s> moojt ngan nawm trawm baary tuw </s>
+<s> moojt ngan nawm trawm baary nawm </s>
+<s> moojt ngan nawm trawm baary sasu </s>
+<s> moojt ngan nawm trawm baary baary </s>
+<s> moojt ngan nawm trawm baary tasm </s>
+<s> moojt ngan nawm trawm baary chisn </s>
+<s> moojt ngan nawm trawm tasm muwowi </s>
+<s> moojt ngan nawm trawm tasm moost </s>
+<s> moojt ngan nawm trawm tasm hai </s>
+<s> moojt ngan nawm trawm tasm ba </s>
+<s> moojt ngan nawm trawm tasm tuw </s>
+<s> moojt ngan nawm trawm tasm nawm </s>
+<s> moojt ngan nawm trawm tasm sasu </s>
+<s> moojt ngan nawm trawm tasm baary </s>
+<s> moojt ngan nawm trawm tasm tasm </s>
+<s> moojt ngan nawm trawm tasm chisn </s>
+<s> moojt ngan nawm trawm chisn muwowi </s>
+<s> moojt ngan nawm trawm chisn moost </s>
+<s> moojt ngan nawm trawm chisn hai </s>
+<s> moojt ngan nawm trawm chisn ba </s>
+<s> moojt ngan nawm trawm chisn tuw </s>
+<s> moojt ngan nawm trawm chisn nawm </s>
+<s> moojt ngan nawm trawm chisn sasu </s>
+<s> moojt ngan nawm trawm chisn baary </s>
+<s> moojt ngan nawm trawm chisn tasm </s>
+<s> moojt ngan nawm trawm chisn chisn </s>
+<s> moojt ngan sasu trawm </s>
+<s> moojt ngan sasu trawm linh moojt </s>
+<s> moojt ngan sasu trawm linh hai </s>
+<s> moojt ngan sasu trawm linh ba </s>
+<s> moojt ngan sasu trawm linh tuw </s>
+<s> moojt ngan sasu trawm linh nawm </s>
+<s> moojt ngan sasu trawm linh sasu </s>
+<s> moojt ngan sasu trawm linh baary </s>
+<s> moojt ngan sasu trawm linh tasm </s>
+<s> moojt ngan sasu trawm linh chisn </s>
+<s> moojt ngan sasu trawm muwowfi </s>
+<s> moojt ngan sasu trawm muwowfi moojt </s>
+<s> moojt ngan sasu trawm muwowfi hai </s>
+<s> moojt ngan sasu trawm muwowfi ba </s>
+<s> moojt ngan sasu trawm muwowfi boosn </s>
+<s> moojt ngan sasu trawm muwowfi nawm </s>
+<s> moojt ngan sasu trawm muwowfi sasu </s>
+<s> moojt ngan sasu trawm muwowfi baary </s>
+<s> moojt ngan sasu trawm muwowfi tasm </s>
+<s> moojt ngan sasu trawm muwowfi chisn </s>
+<s> moojt ngan sasu trawm hai muwowi </s>
+<s> moojt ngan sasu trawm hai moost </s>
+<s> moojt ngan sasu trawm hai hai </s>
+<s> moojt ngan sasu trawm hai ba </s>
+<s> moojt ngan sasu trawm hai tuw </s>
+<s> moojt ngan sasu trawm hai nawm </s>
+<s> moojt ngan sasu trawm hai sasu </s>
+<s> moojt ngan sasu trawm hai baary </s>
+<s> moojt ngan sasu trawm hai tasm </s>
+<s> moojt ngan sasu trawm hai chisn </s>
+<s> moojt ngan sasu trawm ba muwowi </s>
+<s> moojt ngan sasu trawm ba moost </s>
+<s> moojt ngan sasu trawm ba hai </s>
+<s> moojt ngan sasu trawm ba ba </s>
+<s> moojt ngan sasu trawm ba tuw </s>
+<s> moojt ngan sasu trawm ba nawm </s>
+<s> moojt ngan sasu trawm ba sasu </s>
+<s> moojt ngan sasu trawm ba baary </s>
+<s> moojt ngan sasu trawm ba tasm </s>
+<s> moojt ngan sasu trawm ba chisn </s>
+<s> moojt ngan sasu trawm boosn muwowi </s>
+<s> moojt ngan sasu trawm boosn moost </s>
+<s> moojt ngan sasu trawm boosn hai </s>
+<s> moojt ngan sasu trawm boosn ba </s>
+<s> moojt ngan sasu trawm boosn tuw </s>
+<s> moojt ngan sasu trawm boosn nawm </s>
+<s> moojt ngan sasu trawm boosn sasu </s>
+<s> moojt ngan sasu trawm boosn baary </s>
+<s> moojt ngan sasu trawm boosn tasm </s>
+<s> moojt ngan sasu trawm boosn chisn </s>
+<s> moojt ngan sasu trawm nawm muwowi </s>
+<s> moojt ngan sasu trawm nawm moost </s>
+<s> moojt ngan sasu trawm nawm hai </s>
+<s> moojt ngan sasu trawm nawm ba </s>
+<s> moojt ngan sasu trawm nawm tuw </s>
+<s> moojt ngan sasu trawm nawm nawm </s>
+<s> moojt ngan sasu trawm nawm sasu </s>
+<s> moojt ngan sasu trawm nawm baary </s>
+<s> moojt ngan sasu trawm nawm tasm </s>
+<s> moojt ngan sasu trawm nawm chisn </s>
+<s> moojt ngan sasu trawm sasu muwowi </s>
+<s> moojt ngan sasu trawm sasu moost </s>
+<s> moojt ngan sasu trawm sasu hai </s>
+<s> moojt ngan sasu trawm sasu ba </s>
+<s> moojt ngan sasu trawm sasu tuw </s>
+<s> moojt ngan sasu trawm sasu nawm </s>
+<s> moojt ngan sasu trawm sasu sasu </s>
+<s> moojt ngan sasu trawm sasu baary </s>
+<s> moojt ngan sasu trawm sasu tasm </s>
+<s> moojt ngan sasu trawm sasu chisn </s>
+<s> moojt ngan sasu trawm baary muwowi </s>
+<s> moojt ngan sasu trawm baary moost </s>
+<s> moojt ngan sasu trawm baary hai </s>
+<s> moojt ngan sasu trawm baary ba </s>
+<s> moojt ngan sasu trawm baary tuw </s>
+<s> moojt ngan sasu trawm baary nawm </s>
+<s> moojt ngan sasu trawm baary sasu </s>
+<s> moojt ngan sasu trawm baary baary </s>
+<s> moojt ngan sasu trawm baary tasm </s>
+<s> moojt ngan sasu trawm baary chisn </s>
+<s> moojt ngan sasu trawm tasm muwowi </s>
+<s> moojt ngan sasu trawm tasm moost </s>
+<s> moojt ngan sasu trawm tasm hai </s>
+<s> moojt ngan sasu trawm tasm ba </s>
+<s> moojt ngan sasu trawm tasm tuw </s>
+<s> moojt ngan sasu trawm tasm nawm </s>
+<s> moojt ngan sasu trawm tasm sasu </s>
+<s> moojt ngan sasu trawm tasm baary </s>
+<s> moojt ngan sasu trawm tasm tasm </s>
+<s> moojt ngan sasu trawm tasm chisn </s>
+<s> moojt ngan sasu trawm chisn muwowi </s>
+<s> moojt ngan sasu trawm chisn moost </s>
+<s> moojt ngan sasu trawm chisn hai </s>
+<s> moojt ngan sasu trawm chisn ba </s>
+<s> moojt ngan sasu trawm chisn tuw </s>
+<s> moojt ngan sasu trawm chisn nawm </s>
+<s> moojt ngan sasu trawm chisn sasu </s>
+<s> moojt ngan sasu trawm chisn baary </s>
+<s> moojt ngan sasu trawm chisn tasm </s>
+<s> moojt ngan sasu trawm chisn chisn </s>
+<s> moojt ngan baary trawm </s>
+<s> moojt ngan baary trawm linh moojt </s>
+<s> moojt ngan baary trawm linh hai </s>
+<s> moojt ngan baary trawm linh ba </s>
+<s> moojt ngan baary trawm linh tuw </s>
+<s> moojt ngan baary trawm linh nawm </s>
+<s> moojt ngan baary trawm linh sasu </s>
+<s> moojt ngan baary trawm linh baary </s>
+<s> moojt ngan baary trawm linh tasm </s>
+<s> moojt ngan baary trawm linh chisn </s>
+<s> moojt ngan baary trawm muwowfi </s>
+<s> moojt ngan baary trawm muwowfi moojt </s>
+<s> moojt ngan baary trawm muwowfi hai </s>
+<s> moojt ngan baary trawm muwowfi ba </s>
+<s> moojt ngan baary trawm muwowfi tuw </s>
+<s> moojt ngan baary trawm muwowfi nawm </s>
+<s> moojt ngan baary trawm muwowfi sasu </s>
+<s> moojt ngan baary trawm muwowfi baary </s>
+<s> moojt ngan baary trawm muwowfi tasm </s>
+<s> moojt ngan baary trawm muwowfi chisn </s>
+<s> moojt ngan baary trawm hai muwowi </s>
+<s> moojt ngan baary trawm hai moost </s>
+<s> moojt ngan baary trawm hai hai </s>
+<s> moojt ngan baary trawm hai ba </s>
+<s> moojt ngan baary trawm hai tuw </s>
+<s> moojt ngan baary trawm hai nawm </s>
+<s> moojt ngan baary trawm hai sasu </s>
+<s> moojt ngan baary trawm hai baary </s>
+<s> moojt ngan baary trawm hai tasm </s>
+<s> moojt ngan baary trawm hai chisn </s>
+<s> moojt ngan baary trawm ba muwowi </s>
+<s> moojt ngan baary trawm ba moost </s>
+<s> moojt ngan baary trawm ba hai </s>
+<s> moojt ngan baary trawm ba ba </s>
+<s> moojt ngan baary trawm ba tuw </s>
+<s> moojt ngan baary trawm ba nawm </s>
+<s> moojt ngan baary trawm ba sasu </s>
+<s> moojt ngan baary trawm ba baary </s>
+<s> moojt ngan baary trawm ba tasm </s>
+<s> moojt ngan baary trawm ba chisn </s>
+<s> moojt ngan baary trawm boosn muwowi </s>
+<s> moojt ngan baary trawm boosn moost </s>
+<s> moojt ngan baary trawm boosn hai </s>
+<s> moojt ngan baary trawm boosn ba </s>
+<s> moojt ngan baary trawm boosn tuw </s>
+<s> moojt ngan baary trawm boosn nawm </s>
+<s> moojt ngan baary trawm boosn sasu </s>
+<s> moojt ngan baary trawm boosn baary </s>
+<s> moojt ngan baary trawm boosn tasm </s>
+<s> moojt ngan baary trawm boosn chisn </s>
+<s> moojt ngan baary trawm nawm muwowi </s>
+<s> moojt ngan baary trawm nawm moost </s>
+<s> moojt ngan baary trawm nawm hai </s>
+<s> moojt ngan baary trawm nawm ba </s>
+<s> moojt ngan baary trawm nawm tuw </s>
+<s> moojt ngan baary trawm nawm nawm </s>
+<s> moojt ngan baary trawm nawm sasu </s>
+<s> moojt ngan baary trawm nawm baary </s>
+<s> moojt ngan baary trawm nawm tasm </s>
+<s> moojt ngan baary trawm nawm chisn </s>
+<s> moojt ngan baary trawm sasu muwowi </s>
+<s> moojt ngan baary trawm sasu moost </s>
+<s> moojt ngan baary trawm sasu hai </s>
+<s> moojt ngan baary trawm sasu ba </s>
+<s> moojt ngan baary trawm sasu tuw </s>
+<s> moojt ngan baary trawm sasu nawm </s>
+<s> moojt ngan baary trawm sasu sasu </s>
+<s> moojt ngan baary trawm sasu baary </s>
+<s> moojt ngan baary trawm sasu tasm </s>
+<s> moojt ngan baary trawm sasu chisn </s>
+<s> moojt ngan baary trawm baary muwowi </s>
+<s> moojt ngan baary trawm baary moost </s>
+<s> moojt ngan baary trawm baary hai </s>
+<s> moojt ngan baary trawm baary ba </s>
+<s> moojt ngan baary trawm baary tuw </s>
+<s> moojt ngan baary trawm baary nawm </s>
+<s> moojt ngan baary trawm baary sasu </s>
+<s> moojt ngan baary trawm baary baary </s>
+<s> moojt ngan baary trawm baary tasm </s>
+<s> moojt ngan baary trawm baary chisn </s>
+<s> moojt ngan baary trawm tasm muwowi </s>
+<s> moojt ngan baary trawm tasm moost </s>
+<s> moojt ngan baary trawm tasm hai </s>
+<s> moojt ngan baary trawm tasm ba </s>
+<s> moojt ngan baary trawm tasm tuw </s>
+<s> moojt ngan baary trawm tasm nawm </s>
+<s> moojt ngan baary trawm tasm sasu </s>
+<s> moojt ngan baary trawm tasm baary </s>
+<s> moojt ngan baary trawm tasm tasm </s>
+<s> moojt ngan baary trawm tasm chisn </s>
+<s> moojt ngan baary trawm chisn muwowi </s>
+<s> moojt ngan baary trawm chisn moost </s>
+<s> moojt ngan baary trawm chisn hai </s>
+<s> moojt ngan baary trawm chisn ba </s>
+<s> moojt ngan baary trawm chisn tuw </s>
+<s> moojt ngan baary trawm chisn nawm </s>
+<s> moojt ngan baary trawm chisn sasu </s>
+<s> moojt ngan baary trawm chisn baary </s>
+<s> moojt ngan baary trawm chisn tasm </s>
+<s> moojt ngan baary trawm chisn chisn </s>
+<s> moojt ngan tasm trawm </s>
+<s> moojt ngan tasm trawm linh moojt </s>
+<s> moojt ngan tasm trawm linh hai </s>
+<s> moojt ngan tasm trawm linh ba </s>
+<s> moojt ngan tasm trawm linh tuw </s>
+<s> moojt ngan tasm trawm linh nawm </s>
+<s> moojt ngan tasm trawm linh sasu </s>
+<s> moojt ngan tasm trawm linh baary </s>
+<s> moojt ngan tasm trawm linh tasm </s>
+<s> moojt ngan tasm trawm linh chisn </s>
+<s> moojt ngan tasm trawm muwowfi </s>
+<s> moojt ngan tasm trawm muwowfi moojt </s>
+<s> moojt ngan tasm trawm muwowfi hai </s>
+<s> moojt ngan tasm trawm muwowfi ba </s>
+<s> moojt ngan tasm trawm muwowfi tuw </s>
+<s> moojt ngan tasm trawm muwowfi nawm </s>
+<s> moojt ngan tasm trawm muwowfi sasu </s>
+<s> moojt ngan tasm trawm muwowfi baary </s>
+<s> moojt ngan tasm trawm muwowfi tasm </s>
+<s> moojt ngan tasm trawm muwowfi chisn </s>
+<s> moojt ngan tasm trawm hai muwowi </s>
+<s> moojt ngan tasm trawm hai moost </s>
+<s> moojt ngan tasm trawm hai hai </s>
+<s> moojt ngan tasm trawm hai ba </s>
+<s> moojt ngan tasm trawm hai tuw </s>
+<s> moojt ngan tasm trawm hai nawm </s>
+<s> moojt ngan tasm trawm hai sasu </s>
+<s> moojt ngan tasm trawm hai baary </s>
+<s> moojt ngan tasm trawm hai tasm </s>
+<s> moojt ngan tasm trawm hai chisn </s>
+<s> moojt ngan tasm trawm ba muwowi </s>
+<s> moojt ngan tasm trawm ba moost </s>
+<s> moojt ngan tasm trawm ba hai </s>
+<s> moojt ngan tasm trawm ba ba </s>
+<s> moojt ngan tasm trawm ba tuw </s>
+<s> moojt ngan tasm trawm ba nawm </s>
+<s> moojt ngan tasm trawm ba sasu </s>
+<s> moojt ngan tasm trawm ba baary </s>
+<s> moojt ngan tasm trawm ba tasm </s>
+<s> moojt ngan tasm trawm ba chisn </s>
+<s> moojt ngan tasm trawm boosn muwowi </s>
+<s> moojt ngan tasm trawm boosn moost </s>
+<s> moojt ngan tasm trawm boosn hai </s>
+<s> moojt ngan tasm trawm boosn ba </s>
+<s> moojt ngan tasm trawm boosn tuw </s>
+<s> moojt ngan tasm trawm boosn nawm </s>
+<s> moojt ngan tasm trawm boosn sasu </s>
+<s> moojt ngan tasm trawm boosn baary </s>
+<s> moojt ngan tasm trawm boosn tasm </s>
+<s> moojt ngan tasm trawm boosn chisn </s>
+<s> moojt ngan tasm trawm nawm muwowi </s>
+<s> moojt ngan tasm trawm nawm moost </s>
+<s> moojt ngan tasm trawm nawm hai </s>
+<s> moojt ngan tasm trawm nawm ba </s>
+<s> moojt ngan tasm trawm nawm tuw </s>
+<s> moojt ngan tasm trawm nawm nawm </s>
+<s> moojt ngan tasm trawm nawm sasu </s>
+<s> moojt ngan tasm trawm nawm baary </s>
+<s> moojt ngan tasm trawm nawm tasm </s>
+<s> moojt ngan tasm trawm nawm chisn </s>
+<s> moojt ngan tasm trawm sasu muwowi </s>
+<s> moojt ngan tasm trawm sasu moost </s>
+<s> moojt ngan tasm trawm sasu hai </s>
+<s> moojt ngan tasm trawm sasu ba </s>
+<s> moojt ngan tasm trawm sasu tuw </s>
+<s> moojt ngan tasm trawm sasu nawm </s>
+<s> moojt ngan tasm trawm sasu sasu </s>
+<s> moojt ngan tasm trawm sasu baary </s>
+<s> moojt ngan tasm trawm sasu tasm </s>
+<s> moojt ngan tasm trawm sasu chisn </s>
+<s> moojt ngan tasm trawm baary muwowi </s>
+<s> moojt ngan tasm trawm baary moost </s>
+<s> moojt ngan tasm trawm baary hai </s>
+<s> moojt ngan tasm trawm baary ba </s>
+<s> moojt ngan tasm trawm baary tuw </s>
+<s> moojt ngan tasm trawm baary nawm </s>
+<s> moojt ngan tasm trawm baary sasu </s>
+<s> moojt ngan tasm trawm baary baary </s>
+<s> moojt ngan tasm trawm baary tasm </s>
+<s> moojt ngan tasm trawm baary chisn </s>
+<s> moojt ngan tasm trawm tasm muwowi </s>
+<s> moojt ngan tasm trawm tasm moost </s>
+<s> moojt ngan tasm trawm tasm hai </s>
+<s> moojt ngan tasm trawm tasm ba </s>
+<s> moojt ngan tasm trawm tasm tuw </s>
+<s> moojt ngan tasm trawm tasm nawm </s>
+<s> moojt ngan tasm trawm tasm sasu </s>
+<s> moojt ngan tasm trawm tasm baary </s>
+<s> moojt ngan tasm trawm tasm tasm </s>
+<s> moojt ngan tasm trawm tasm chisn </s>
+<s> moojt ngan tasm trawm chisn muwowi </s>
+<s> moojt ngan tasm trawm chisn moost </s>
+<s> moojt ngan tasm trawm chisn hai </s>
+<s> moojt ngan tasm trawm chisn ba </s>
+<s> moojt ngan tasm trawm chisn tuw </s>
+<s> moojt ngan tasm trawm chisn nawm </s>
+<s> moojt ngan tasm trawm chisn sasu </s>
+<s> moojt ngan tasm trawm chisn baary </s>
+<s> moojt ngan tasm trawm chisn tasm </s>
+<s> moojt ngan tasm trawm chisn chisn </s>
+<s> moojt ngan chisn trawm </s>
+<s> moojt ngan chisn trawm linh moojt </s>
+<s> moojt ngan chisn trawm linh hai </s>
+<s> moojt ngan chisn trawm linh ba </s>
+<s> moojt ngan chisn trawm linh tuw </s>
+<s> moojt ngan chisn trawm linh nawm </s>
+<s> moojt ngan chisn trawm linh sasu </s>
+<s> moojt ngan chisn trawm linh baary </s>
+<s> moojt ngan chisn trawm linh tasm </s>
+<s> moojt ngan chisn trawm linh chisn </s>
+<s> moojt ngan chisn trawm muwowfi </s>
+<s> moojt ngan chisn trawm muwowfi moojt </s>
+<s> moojt ngan chisn trawm muwowfi hai </s>
+<s> moojt ngan chisn trawm muwowfi ba </s>
+<s> moojt ngan chisn trawm muwowfi tuw </s>
+<s> moojt ngan chisn trawm muwowfi nawm </s>
+<s> moojt ngan chisn trawm muwowfi sasu </s>
+<s> moojt ngan chisn trawm muwowfi baary </s>
+<s> moojt ngan chisn trawm muwowfi tasm </s>
+<s> moojt ngan chisn trawm muwowfi chisn </s>
+<s> moojt ngan chisn trawm hai muwowi </s>
+<s> moojt ngan chisn trawm hai moost </s>
+<s> moojt ngan chisn trawm hai hai </s>
+<s> moojt ngan chisn trawm hai ba </s>
+<s> moojt ngan chisn trawm hai tuw </s>
+<s> moojt ngan chisn trawm hai nawm </s>
+<s> moojt ngan chisn trawm hai sasu </s>
+<s> moojt ngan chisn trawm hai baary </s>
+<s> moojt ngan chisn trawm hai tasm </s>
+<s> moojt ngan chisn trawm hai chisn </s>
+<s> moojt ngan chisn trawm ba muwowi </s>
+<s> moojt ngan chisn trawm ba moost </s>
+<s> moojt ngan chisn trawm ba hai </s>
+<s> moojt ngan chisn trawm ba ba </s>
+<s> moojt ngan chisn trawm ba tuw </s>
+<s> moojt ngan chisn trawm ba nawm </s>
+<s> moojt ngan chisn trawm ba sasu </s>
+<s> moojt ngan chisn trawm ba baary </s>
+<s> moojt ngan chisn trawm ba tasm </s>
+<s> moojt ngan chisn trawm ba chisn </s>
+<s> moojt ngan chisn trawm boosn muwowi </s>
+<s> moojt ngan chisn trawm boosn moost </s>
+<s> moojt ngan chisn trawm boosn hai </s>
+<s> moojt ngan chisn trawm boosn ba </s>
+<s> moojt ngan chisn trawm boosn tuw </s>
+<s> moojt ngan chisn trawm boosn nawm </s>
+<s> moojt ngan chisn trawm boosn sasu </s>
+<s> moojt ngan chisn trawm boosn baary </s>
+<s> moojt ngan chisn trawm boosn tasm </s>
+<s> moojt ngan chisn trawm boosn chisn </s>
+<s> moojt ngan chisn trawm nawm muwowi </s>
+<s> moojt ngan chisn trawm nawm moost </s>
+<s> moojt ngan chisn trawm nawm hai </s>
+<s> moojt ngan chisn trawm nawm ba </s>
+<s> moojt ngan chisn trawm nawm tuw </s>
+<s> moojt ngan chisn trawm nawm nawm </s>
+<s> moojt ngan chisn trawm nawm sasu </s>
+<s> moojt ngan chisn trawm nawm baary </s>
+<s> moojt ngan chisn trawm nawm tasm </s>
+<s> moojt ngan chisn trawm nawm chisn </s>
+<s> moojt ngan chisn trawm sasu muwowi </s>
+<s> moojt ngan chisn trawm sasu moost </s>
+<s> moojt ngan chisn trawm sasu hai </s>
+<s> moojt ngan chisn trawm sasu ba </s>
+<s> moojt ngan chisn trawm sasu tuw </s>
+<s> moojt ngan chisn trawm sasu nawm </s>
+<s> moojt ngan chisn trawm sasu sasu </s>
+<s> moojt ngan chisn trawm sasu baary </s>
+<s> moojt ngan chisn trawm sasu tasm </s>
+<s> moojt ngan chisn trawm sasu chisn </s>
+<s> moojt ngan chisn trawm baary muwowi </s>
+<s> moojt ngan chisn trawm baary moost </s>
+<s> moojt ngan chisn trawm baary hai </s>
+<s> moojt ngan chisn trawm baary ba </s>
+<s> moojt ngan chisn trawm baary tuw </s>
+<s> moojt ngan chisn trawm baary nawm </s>
+<s> moojt ngan chisn trawm baary sasu </s>
+<s> moojt ngan chisn trawm baary baary </s>
+<s> moojt ngan chisn trawm baary tasm </s>
+<s> moojt ngan chisn trawm baary chisn </s>
+<s> moojt ngan chisn trawm tasm muwowi </s>
+<s> moojt ngan chisn trawm tasm moost </s>
+<s> moojt ngan chisn trawm tasm hai </s>
+<s> moojt ngan chisn trawm tasm ba </s>
+<s> moojt ngan chisn trawm tasm tuw </s>
+<s> moojt ngan chisn trawm tasm nawm </s>
+<s> moojt ngan chisn trawm tasm sasu </s>
+<s> moojt ngan chisn trawm tasm baary </s>
+<s> moojt ngan chisn trawm tasm tasm </s>
+<s> moojt ngan chisn trawm tasm chisn </s>
+<s> moojt ngan chisn trawm chisn muwowi </s>
+<s> moojt ngan chisn trawm chisn moost </s>
+<s> moojt ngan chisn trawm chisn hai </s>
+<s> moojt ngan chisn trawm chisn ba </s>
+<s> moojt ngan chisn trawm chisn tuw </s>
+<s> moojt ngan chisn trawm chisn nawm </s>
+<s> moojt ngan chisn trawm chisn sasu </s>
+<s> moojt ngan chisn trawm chisn baary </s>
+<s> moojt ngan chisn trawm chisn tasm </s>
+<s> moojt ngan chisn trawm chisn chisn </s>
+<s> moojt ngan
+<s> moojt ngan
