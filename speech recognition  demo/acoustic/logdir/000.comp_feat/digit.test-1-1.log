@@ -1,0 +1,100 @@
+Current configuration:
+[NAME]			[DEFLT]		[VALUE]
+-alpha			0.97		9.700000e-01
+-argfile				
+-blocksize		2048		2048
+-build_outdirs		yes		yes
+-c					/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/etc/digit_test.fileids
+-cep2spec		no		no
+-di					/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav
+-dither			no		no
+-do					/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat
+-doublebw		no		no
+-ei					wav
+-eo					mfc
+-example		no		no
+-frate			100		100
+-help			no		no
+-i					
+-input_endian		little		little
+-lifter			0		22
+-logspec		no		no
+-lowerf			133.33334	2.000000e+02
+-mach_endian		little		little
+-mswav			no		yes
+-ncep			13		13
+-nchans			1		1
+-nfft			512		512
+-nfilt			40		31
+-nist			no		no
+-npart			0		1
+-nskip			0		0
+-o					
+-ofmt			sphinx		sphinx
+-part			0		1
+-raw			no		no
+-remove_dc		no		no
+-remove_noise		yes		yes
+-remove_silence		yes		yes
+-round_filters		yes		yes
+-runlen			-1		-1
+-samprate		16000		8.000000e+03
+-seed			-1		-1
+-smoothspec		no		no
+-spec2cep		no		no
+-sph2pipe		no		no
+-transform		legacy		dct
+-unit_area		yes		yes
+-upperf			6855.4976	3.500000e+03
+-vad_postspeech		50		50
+-vad_prespeech		20		20
+-vad_startspeech	10		10
+-vad_threshold		2.0		2.000000e+00
+-verbose		no		no
+-warp_params				
+-warp_type		inverse_linear	inverse_linear
+-whichchan		0		0
+-wlen			0.025625	2.562500e-02
+
+INFO: sphinx_fe.c(957): Processing all remaining utterances at position 0
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_1.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_1.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_2.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_2.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_3.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_3.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_4.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_4.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_5.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_5.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_6.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_6.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_7.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_7.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_8.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_8.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_9.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_9.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_10.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_10.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_11.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_11.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_12.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_12.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_13.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_13.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_14.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_14.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_15.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_15.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_16.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_16.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_17.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_17.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_18.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_18.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_19.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_19.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_20.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_20.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_21.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_21.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_22.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_22.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_23.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_23.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_24.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_24.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_25.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_25.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_26.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_26.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_27.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_27.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_28.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_28.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_29.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_29.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_30.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_30.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_31.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_31.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_32.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_32.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_33.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_33.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_34.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_34.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_35.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_35.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_36.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_36.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_37.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_37.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_38.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_38.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_39.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_39.mfc
+INFO: sphinx_fe.c(764): Converting /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/wav/test/test_40.wav to /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/feat/test/test_40.mfc
+Wed Apr  6 13:30:32 2016
