@@ -1,5 +1,6 @@
 package com.example.nguyenvanthinh.funny;
 
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -8,9 +9,27 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
+import java.io.File;
+import java.io.IOException;
 
+import static edu.cmu.pocketsphinx.SpeechRecognizerSetup.defaultSetup;
+
+import edu.cmu.pocketsphinx.Assets;
+import edu.cmu.pocketsphinx.Hypothesis;
+import edu.cmu.pocketsphinx.RecognitionListener;
+import edu.cmu.pocketsphinx.SpeechRecognizer;
+
+public class MainActivity extends AppCompatActivity implements RecognitionListener{
+
+    private SpeechRecognizer speechRecognizer;
+    private static final String KWS_SEARCH = "moojt";
+    private static final String KWS_PHONE = "hai";
+    private static final String KEYPHRASE = "ba";
+
+    private TextView tvResult;
+    private TextView tvError;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -18,14 +37,58 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
+        tvResult = (TextView) findViewById(R.id.result);
+        tvError = (TextView) findViewById(R.id.error);
+
+
+
+        new AsyncTask<Void,Void,Exception>(){
+
             @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+            protected Exception doInBackground(Void... params) {
+                try {
+
+                    Assets assets = new Assets(MainActivity.this);
+                    File assetDir = assets.syncAssets();
+                    setupRecognitzer(assetDir);
+                } catch (IOException e){
+                    e.printStackTrace();
+
+                    return e;
+
+                }
+                publishProgress();
+                return null;
             }
-        });
+
+            @Override
+            protected void onProgressUpdate(Void... values) {
+                super.onProgressUpdate(values);
+                tvError.setText("STARTING");
+            }
+
+            @Override
+            protected void onPostExecute(Exception result) {
+                super.onPostExecute(result);
+                tvError.setText("STARTING");
+                if(result != null) {
+                    tvError.setText("Failed to init recognizer " + result );
+                } else {
+
+                    tvError.setText("STARTING");
+                    FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+                    fab.setOnClickListener(new View.OnClickListener() {
+                        @Override
+                        public void onClick(View view) {
+                            Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                                    .setAction("Action", null).show();
+                            speechRecognizer.startListening(KWS_SEARCH, 10000);
+                            tvError.setText("STARTING");
+                        }
+                    });
+                }
+            }
+        }.execute();
     }
 
     @Override
@@ -48,5 +111,71 @@ public class MainActivity extends AppCompatActivity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    private void setupRecognitzer(File assetsDir) throws IOException {
+        // configure recognizer
+
+        speechRecognizer = defaultSetup().setAcousticModel(new File(assetsDir,"digit"))
+                .setDictionary(new File(assetsDir, "digit.dict"))
+                .setRawLogDir(assetsDir)
+                .setKeywordThreshold(1e-45f)
+                .setBoolean("-allphone_ci",true)
+                .getRecognizer();
+
+        speechRecognizer.addListener(this);
+
+        //try to inogre creat keywoard-activation search
+        // and add phonetic search
+        //speechRecognizer.addKeyphraseSearch(KWS_SEARCH, KEYPHRASE);
+
+        File languageModel = new File(assetsDir,"digit.lm.DMP");
+        speechRecognizer.addNgramSearch("KWS_SEARCH", languageModel);
+    }
+
+    @Override
+    public void onBeginningOfSpeech() {
+
+    }
+
+    @Override
+    public void onEndOfSpeech() {
+
+    }
+
+    @Override
+    public void onPartialResult(Hypothesis hypothesis) {
+        if(hypothesis == null)
+            return;
+        String text =hypothesis.getHypstr();
+        tvResult.setText(text);
+
+    }
+
+    @Override
+    public void onResult(Hypothesis hypothesis) {
+        if(hypothesis != null){
+            String text = hypothesis.getHypstr();
+            tvResult.setText(text);
+        }
+
+    }
+
+    @Override
+    public void onError(Exception e) {
+
+        tvError.setText(e.getMessage());
+    }
+
+    @Override
+    public void onTimeout() {
+        speechRecognizer.stop();
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        speechRecognizer.cancel();
+        speechRecognizer.shutdown();
     }
 }
