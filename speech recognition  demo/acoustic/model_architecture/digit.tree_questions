@@ -1,0 +1,67 @@
+WDBNDRY_B
+WDBNDRY_E
+WDBNDRY_S
+WDBNDRY_I
+SILENCE   SIL
+QUESTION0_0_R  a aar as if is iz mz ow owf uz
+QUESTION0_1_R  a aar mz ow
+QUESTION0_2_R  a mz
+QUESTION0_3_R  aar ow
+QUESTION0_4_R  as if is iz owf uz
+QUESTION0_5_R  aw b ch h i kh l m n ng ngz nz oo ooj oos s t tc tr uw
+QUESTION0_6_R  aw b ch h kh m n ngz s t
+QUESTION0_7_R  b m
+QUESTION0_8_R  aw ch h kh n ngz s t
+QUESTION0_9_R  aw ch ngz s
+QUESTION0_10_R  h kh n t
+QUESTION0_11_R  i l ng nz oo ooj oos tc tr uw
+QUESTION0_12_R  l nz
+QUESTION0_13_R  i ng oo ooj oos tc tr uw
+QUESTION0_14_R  i ng oo ooj tc tr uw
+QUESTION0_15_R  i ng ooj tc tr uw
+QUESTION0_16_R  i ng ooj tr uw
+QUESTION0_17_R  i ng uw
+QUESTION0_18_R  i uw
+QUESTION0_19_R  ooj tr
+QUESTION0  a
+QUESTION1  aar as aw b ch h i if is iz kh l m mz n ng ngz nz oo ooj oos ow owf s t tc tr uw uz
+QUESTION2  if is iz ng ngz nz oo ooj oos uz
+QUESTION3  if is iz ng ngz nz oo ooj
+QUESTION4  nz ooj
+QUESTION5  if is iz ng ngz oo
+QUESTION6  is iz ng ngz oo
+QUESTION7  ng ngz oo
+QUESTION8  is iz
+QUESTION9  oos uz
+QUESTION10  aar as aw b ch h i kh l m mz n ow owf s t tc tr uw
+QUESTION11  aar aw b ch i l m ow owf tc tr
+QUESTION12  aw b ch i l m tc tr
+QUESTION13  aw b i l m tc tr
+QUESTION14  b tc
+QUESTION15  aw i l m tr
+QUESTION16  l m
+QUESTION17  aw i tr
+QUESTION18  aar ow owf
+QUESTION19  aar ow
+QUESTION20  as h kh mz n s t uw
+QUESTION2_0_L  a as iz n nz oo t uz
+QUESTION2_1_L  a t
+QUESTION2_2_L  as iz n nz oo uz
+QUESTION2_3_L  aar aw b ch h i if is kh l m mz ng ngz ooj oos ow owf s tc tr uw
+QUESTION2_4_L  aw b h s
+QUESTION2_5_L  aar ch i if is kh l m mz ng ngz ooj oos ow owf tc tr uw
+QUESTION2_6_L  l mz uw
+QUESTION2_7_L  l mz
+QUESTION2_8_L  aar ch i if is kh m ng ngz ooj oos ow owf tc tr
+QUESTION2_9_L  kh m oos
+QUESTION2_10_L  aar ch i if is ng ngz ooj ow owf tc tr
+QUESTION2_11_L  aar ch i if ow owf
+QUESTION2_12_L  aar i if ow owf
+QUESTION2_13_L  aar i ow owf
+QUESTION2_14_L  aar ow owf
+QUESTION2_15_L  aar ow
+QUESTION2_16_L  is ng ngz ooj tc tr
+QUESTION2_17_L  is ng
+QUESTION2_18_L  ngz ooj tc tr
+QUESTION2_19_L  ngz ooj tc
+QUESTION2_20_L  ngz tc

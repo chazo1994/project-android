@@ -1,0 +1,24 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-example	no	no
+-help		no	no
+-mixwfn			/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont_flatinitial/mixture_weights
+-moddeffn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_architecture/digit.ci.mdef
+-ndensity	256	1
+-nstream	4	1
+-tmatfn			/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont_flatinitial/transition_matrices
+-topo			/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_architecture/digit.topology
+
+INFO: model_def_io.c(573): Model definition info:
+INFO: model_def_io.c(574): 31 total models defined (31 base, 0 tri)
+INFO: model_def_io.c(575): 124 total states
+INFO: model_def_io.c(576): 93 total tied states
+INFO: model_def_io.c(577): 93 total tied CI states
+INFO: model_def_io.c(578): 31 total tied transition matrices
+INFO: model_def_io.c(579): 4 max state/model
+INFO: model_def_io.c(580): 4 min state/model
+INFO: s3tmat_io.c(176): Wrote /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont_flatinitial/transition_matrices [31x3x4 array]
+INFO: s3mixw_io.c(233): Wrote /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont_flatinitial/mixture_weights [93x1x1 array]
+main.c(83): Reading model definition file /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_architecture/digit.ci.mdef
+main.c(90): 31 models defined
+Thu Apr  7 00:43:43 2016

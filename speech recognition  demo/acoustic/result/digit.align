@@ -1,0 +1,163 @@
+moojt baary boosn khoong chisn tasm hai nawm sasu ba   (test-TEST_1)
+moojt baary boosn khoong chisn tasm hai nawm sasu ba   (test-TEST_1)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+hai MOOJT sasu tasm ***  nawm baary chisn boosn ba  khoong  (test-TEST_2)
+hai BOOSN sasu tasm NAWM nawm baary chisn boosn ba  khoong  (test-TEST_2)
+Words: 10 Correct: 9 Errors: 2 Percent correct = 90.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+hai tasm sasu khoong boosn nawm chisn MOOJT ba  baary  (test-TEST_3)
+hai tasm sasu khoong boosn nawm chisn BOOSN ba  baary  (test-TEST_3)
+Words: 10 Correct: 9 Errors: 1 Percent correct = 90.00% Error = 10.00% Accuracy = 90.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+tasm hai chisn MOOJT ba  nawm boosn khoong baary sasu  (test-TEST_4)
+tasm hai chisn BOOSN ba  nawm boosn khoong baary sasu  (test-TEST_4)
+Words: 10 Correct: 9 Errors: 1 Percent correct = 90.00% Error = 10.00% Accuracy = 90.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ba  sasu MOOJT nawm boosn hai khoong chisn baary tasm  (test-TEST_5)
+ba  sasu BOOSN nawm boosn hai khoong chisn baary tasm  (test-TEST_5)
+Words: 10 Correct: 9 Errors: 1 Percent correct = 90.00% Error = 10.00% Accuracy = 90.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+moojt tasm hai sasu khoong ba  NAWM chisn boosn baary  (test-TEST_6)
+moojt tasm hai sasu khoong ba  TASM chisn boosn baary  (test-TEST_6)
+Words: 10 Correct: 9 Errors: 1 Percent correct = 90.00% Error = 10.00% Accuracy = 90.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+TASM ba  nawm moojt hai khoong sasu boosn chisn baary  (test-TEST_7)
+NAWM ba  nawm moojt hai khoong sasu boosn chisn baary  (test-TEST_7)
+Words: 10 Correct: 9 Errors: 1 Percent correct = 90.00% Error = 10.00% Accuracy = 90.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+baary tasm ba  moojt khoong boosn chisn sasu ***  nawm hai  (test-TEST_8)
+baary tasm ba  moojt khoong boosn chisn sasu NAWM nawm hai  (test-TEST_8)
+Words: 10 Correct: 10 Errors: 1 Percent correct = 100.00% Error = 10.00% Accuracy = 90.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+***  nawm ba  baary boosn tasm khoong sasu moojt chisn hai  (test-TEST_9)
+NAWM nawm ba  baary boosn tasm khoong sasu moojt chisn hai  (test-TEST_9)
+Words: 10 Correct: 10 Errors: 1 Percent correct = 100.00% Error = 10.00% Accuracy = 90.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+hai tasm chisn khoong baary MOOJT nawm sasu boosn ba   (test-TEST_10)
+hai tasm chisn khoong baary BOOSN nawm sasu boosn ba   (test-TEST_10)
+Words: 10 Correct: 9 Errors: 1 Percent correct = 90.00% Error = 10.00% Accuracy = 90.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+chisn hai tuw sasu moost tasm baary nawm muwowi ba   (test-TEST_11)
+chisn hai tuw sasu moost tasm baary nawm muwowi ba   (test-TEST_11)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chisn muwowfi tasm nawm ba  hai sasu baary tuw khoong  (test-TEST_12)
+chisn muwowfi tasm nawm ba  hai sasu baary tuw khoong  (test-TEST_12)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+tasm ba  chisn sasu baary nawm hai boosn moost khoong  (test-TEST_13)
+tasm ba  chisn sasu baary nawm hai boosn moost khoong  (test-TEST_13)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ba  sasu tuw chisn hai khoong nawm tasm baary moojt  (test-TEST_14)
+ba  sasu tuw chisn hai khoong nawm tasm baary moojt  (test-TEST_14)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+hai nawm baary boosn chisn ba  muwowi tasm moost sasu  (test-TEST_15)
+hai nawm baary boosn chisn ba  muwowi tasm moost sasu  (test-TEST_15)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+boosn khoong baary ba  ***  nawm muwowfi sasu chisn tasm hai  (test-TEST_16)
+boosn khoong baary ba  NAWM nawm muwowfi sasu chisn tasm hai  (test-TEST_16)
+Words: 10 Correct: 10 Errors: 1 Percent correct = 100.00% Error = 10.00% Accuracy = 90.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+moojt sasu tasm ba  tuw chisn hai khoong baary nawm  (test-TEST_17)
+moojt sasu tasm ba  tuw chisn hai khoong baary nawm  (test-TEST_17)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+sasu baary ba  tasm tuw chisn hai nawm muwowi moojt  (test-TEST_18)
+sasu baary ba  tasm tuw chisn hai nawm muwowi moojt  (test-TEST_18)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***  nawm boosn muwowi hai sasu muwowfi baary ba  tasm chisn  (test-TEST_19)
+NAWM nawm boosn muwowi hai sasu muwowfi baary ba  tasm chisn  (test-TEST_19)
+Words: 10 Correct: 10 Errors: 1 Percent correct = 100.00% Error = 10.00% Accuracy = 90.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+khoong ba  TASM  nawm baary chisn tuw muwowfi sasu hai  (test-TEST_20)
+khoong ba  TRAWM nawm baary chisn tuw muwowfi sasu hai  (test-TEST_20)
+Words: 10 Correct: 9 Errors: 1 Percent correct = 90.00% Error = 10.00% Accuracy = 90.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+khoong ba  trawm nawm sasu baary trawm muwowfi chisn hai trawm boosn tasm  (test-TEST_21)
+khoong ba  trawm nawm sasu baary trawm muwowfi chisn hai trawm boosn tasm  (test-TEST_21)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+nawm tasm trawm ba  hai boosn trawm muwowfi chisn khoong trawm sasu baary  (test-TEST_22)
+nawm tasm trawm ba  hai boosn trawm muwowfi chisn khoong trawm sasu baary  (test-TEST_22)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+boosn sasu trawm ba  nawm hai trawm tasm moost khoong trawm baary chisn  (test-TEST_23)
+boosn sasu trawm ba  nawm hai trawm tasm moost khoong trawm baary chisn  (test-TEST_23)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+moojt khoong trawm tasm nawm baary trawm chisn ba  boosn trawm hai sasu  (test-TEST_24)
+moojt khoong trawm tasm nawm baary trawm chisn ba  boosn trawm hai sasu  (test-TEST_24)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+moojt baary trawm chisn muwowi ba  trawm boosn nawm hai trawm tasm sasu  (test-TEST_25)
+moojt baary trawm chisn muwowi ba  trawm boosn nawm hai trawm tasm sasu  (test-TEST_25)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+tasm khoong trawm baary tuw ba  trawm muwowfi sasu chisn trawm hai nawm  (test-TEST_26)
+tasm khoong trawm baary tuw ba  trawm muwowfi sasu chisn trawm hai nawm  (test-TEST_26)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+nawm chisn trawm ba  hai tasm trawm baary tuw moojt trawm sasu muwowi  (test-TEST_27)
+nawm chisn trawm ba  hai tasm trawm baary tuw moojt trawm sasu muwowi  (test-TEST_27)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+nawm tasm trawm linh MOOST ba  trawm hai baary chisn trawm boosn sasu  (test-TEST_28)
+nawm tasm trawm linh MOOJT ba  trawm hai baary chisn trawm boosn sasu  (test-TEST_28)
+Words: 13 Correct: 12 Errors: 1 Percent correct = 92.31% Error = 7.69% Accuracy = 92.31%
+Insertions: 0 Deletions: 0 Substitutions: 1
+khoong chisn trawm ba  tasm baary trawm sasu nawm boosn trawm muwowfi hai  (test-TEST_29)
+khoong chisn trawm ba  tasm baary trawm sasu nawm boosn trawm muwowfi hai  (test-TEST_29)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+nawm ba  trawm hai sasu tasm trawm chisn tuw moojt trawm linh baary  (test-TEST_30)
+nawm ba  trawm hai sasu tasm trawm chisn tuw moojt trawm linh baary  (test-TEST_30)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+sasu khoong nghifn hai trawm boosn ba  tasm nghifn baary trawm ***  chisn nawm moojt  (test-TEST_31)
+sasu khoong nghifn hai trawm boosn ba  tasm nghifn baary trawm NAWM chisn nawm moojt  (test-TEST_31)
+Words: 14 Correct: 14 Errors: 1 Percent correct = 100.00% Error = 7.14% Accuracy = 92.86%
+Insertions: 1 Deletions: 0 Substitutions: 0
+boosn ba  nghifn sasu trawm chisn hai moojt nghifn tasm trawm linh nawm baary  (test-TEST_32)
+boosn ba  nghifn sasu trawm chisn hai moojt nghifn tasm trawm linh nawm baary  (test-TEST_32)
+Words: 14 Correct: 14 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+khoong moojt nghifn boosn trawm tasm chisn ba  nghifn nawm trawm baary hai sasu  (test-TEST_33)
+khoong moojt nghifn boosn trawm tasm chisn ba  nghifn nawm trawm baary hai sasu  (test-TEST_33)
+Words: 14 Correct: 14 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chisn ba  nghifn tasm trawm ***  MUWOWFI boosn nghifn nawm trawm ***  baary sasu hai ***   (test-TEST_34)
+chisn ba  nghifn tasm trawm NAWM MUWOWI  boosn nghifn nawm trawm NAWM baary sasu hai NAWM  (test-TEST_34)
+Words: 13 Correct: 12 Errors: 4 Percent correct = 92.31% Error = 30.77% Accuracy = 69.23%
+Insertions: 3 Deletions: 0 Substitutions: 1
+moojt boosn nghifn chisn trawm nawm hai ba  nghifn sasu trawm tasm baary khoong  (test-TEST_35)
+moojt boosn nghifn chisn trawm nawm hai ba  nghifn sasu trawm tasm baary khoong  (test-TEST_35)
+Words: 14 Correct: 14 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+boosn chisn nghifn sasu trawm ***  LINH  ba  hai nghifn nawm trawm tasm moost baary  (test-TEST_36)
+boosn chisn nghifn sasu trawm NAWM CHISN ba  hai nghifn nawm trawm tasm moost baary  (test-TEST_36)
+Words: 14 Correct: 13 Errors: 2 Percent correct = 92.86% Error = 14.29% Accuracy = 85.71%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***  nawm baary nghifn tasm trawm hai muwowi chisn nghifn sasu trawm muwowfi boosn ba   (test-TEST_37)
+NAWM nawm baary nghifn tasm trawm hai muwowi chisn nghifn sasu trawm muwowfi boosn ba   (test-TEST_37)
+Words: 14 Correct: 14 Errors: 1 Percent correct = 100.00% Error = 7.14% Accuracy = 92.86%
+Insertions: 1 Deletions: 0 Substitutions: 0
+nawm moojt nghifn tasm trawm boosn muwowi baary nghifn hai trawm chisn ba  sasu  (test-TEST_38)
+nawm moojt nghifn tasm trawm boosn muwowi baary nghifn hai trawm chisn ba  sasu  (test-TEST_38)
+Words: 14 Correct: 14 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+baary tasm nghifn ba  trawm sasu tuw moojt nghifn chisn trawm nawm muwowi hai  (test-TEST_39)
+baary tasm nghifn ba  trawm sasu tuw moojt nghifn chisn trawm nawm muwowi hai  (test-TEST_39)
+Words: 14 Correct: 14 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ba  hai nghifn boosn trawm sasu chisn khoong nghifn moojt trawm nawm tasm baary  (test-TEST_40)
+ba  hai nghifn boosn trawm sasu chisn khoong nghifn moojt trawm nawm tasm baary  (test-TEST_40)
+Words: 14 Correct: 14 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+TOTAL Words: 469 Correct: 458 Errors: 22
+TOTAL Percent correct = 97.65% Error = 4.69% Accuracy = 95.31%
+TOTAL Insertions: 11 Deletions: 0 Substitutions: 11

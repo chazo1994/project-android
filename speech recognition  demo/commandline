@@ -1,0 +1,6 @@
+pocketsphinx_continuous -hmm acoustic/model_parameters/digit.cd_cont_200 -l
+m digit.lm.bin -dict digit.dic -inmic yes
+
+
+pocketsphinx_continuous -hmm acoustic/model_parameters/digit.cd_cont_200 -lm 
+digit.lm.bin -dict digit.dic -infile thinh_1.wav -samprate 8000 | tee ./full-output.log | grep -v --line-buffered '^INFO:'

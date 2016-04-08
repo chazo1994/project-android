@@ -1,0 +1,112 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-allphones	no	no
+-example	no	no
+-help		no	no
+-imoddeffn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/model_architecture/digit.alltriphones.mdef
+-omoddeffn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/model_architecture/digit.200.mdef
+-psetfn			/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/model_architecture/digit.tree_questions
+-treedir		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/trees/digit.200
+
+INFO: model_def_io.c(573): Model definition info:
+INFO: model_def_io.c(574): 384 total models defined (31 base, 353 tri)
+INFO: model_def_io.c(575): 1536 total states
+INFO: model_def_io.c(576): 1152 total tied states
+INFO: model_def_io.c(577): 93 total tied CI states
+INFO: model_def_io.c(578): 31 total tied transition matrices
+INFO: model_def_io.c(579): 4 max state/model
+INFO: model_def_io.c(580): 4 min state/model
+INFO: main.c(93): Reading: /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/model_architecture/digit.tree_questions
+INFO: main.c(124): a-0: offset 93
+INFO: main.c(124): a-1: offset 96
+INFO: main.c(124): a-2: offset 100
+INFO: main.c(124): aar-0: offset 105
+INFO: main.c(124): aar-1: offset 106
+INFO: main.c(124): aar-2: offset 107
+INFO: main.c(124): as-0: offset 108
+INFO: main.c(124): as-1: offset 110
+INFO: main.c(124): as-2: offset 112
+INFO: main.c(124): aw-0: offset 114
+INFO: main.c(124): aw-1: offset 116
+INFO: main.c(124): aw-2: offset 118
+INFO: main.c(124): b-0: offset 120
+INFO: main.c(124): b-1: offset 125
+INFO: main.c(124): b-2: offset 130
+INFO: main.c(124): ch-0: offset 134
+INFO: main.c(124): ch-1: offset 137
+INFO: main.c(124): ch-2: offset 138
+INFO: main.c(124): h-0: offset 139
+INFO: main.c(124): h-1: offset 141
+INFO: main.c(124): h-2: offset 144
+INFO: main.c(124): i-0: offset 146
+INFO: main.c(124): i-1: offset 147
+INFO: main.c(124): i-2: offset 148
+INFO: main.c(124): if-0: offset 149
+INFO: main.c(124): if-1: offset 150
+INFO: main.c(124): if-2: offset 151
+INFO: main.c(124): is-0: offset 152
+INFO: main.c(124): is-1: offset 153
+INFO: main.c(124): is-2: offset 154
+INFO: main.c(124): iz-0: offset 155
+INFO: main.c(124): iz-1: offset 160
+INFO: main.c(124): iz-2: offset 166
+INFO: main.c(124): kh-0: offset 170
+INFO: main.c(124): kh-1: offset 172
+INFO: main.c(124): kh-2: offset 173
+INFO: main.c(124): l-0: offset 174
+INFO: main.c(124): l-1: offset 175
+INFO: main.c(124): l-2: offset 176
+INFO: main.c(124): m-0: offset 177
+INFO: main.c(124): m-1: offset 180
+INFO: main.c(124): m-2: offset 182
+INFO: main.c(124): mz-0: offset 185
+INFO: main.c(124): mz-1: offset 188
+INFO: main.c(124): mz-2: offset 190
+INFO: main.c(124): n-0: offset 197
+INFO: main.c(124): n-1: offset 200
+INFO: main.c(124): n-2: offset 202
+INFO: main.c(124): ng-0: offset 204
+INFO: main.c(124): ng-1: offset 207
+INFO: main.c(124): ng-2: offset 209
+INFO: main.c(124): ngz-0: offset 211
+INFO: main.c(124): ngz-1: offset 213
+INFO: main.c(124): ngz-2: offset 216
+INFO: main.c(124): nz-0: offset 217
+INFO: main.c(124): nz-1: offset 222
+INFO: main.c(124): nz-2: offset 227
+INFO: main.c(124): oo-0: offset 231
+INFO: main.c(124): oo-1: offset 232
+INFO: main.c(124): oo-2: offset 233
+INFO: main.c(124): ooj-0: offset 234
+INFO: main.c(124): ooj-1: offset 235
+INFO: main.c(124): ooj-2: offset 236
+INFO: main.c(124): oos-0: offset 237
+INFO: main.c(124): oos-1: offset 239
+INFO: main.c(124): oos-2: offset 241
+INFO: main.c(124): ow-0: offset 243
+INFO: main.c(124): ow-1: offset 244
+INFO: main.c(124): ow-2: offset 245
+INFO: main.c(124): owf-0: offset 246
+INFO: main.c(124): owf-1: offset 247
+INFO: main.c(124): owf-2: offset 248
+INFO: main.c(124): s-0: offset 249
+INFO: main.c(124): s-1: offset 251
+INFO: main.c(124): s-2: offset 252
+INFO: main.c(124): t-0: offset 253
+INFO: main.c(124): t-1: offset 255
+INFO: main.c(124): t-2: offset 257
+INFO: main.c(124): tc-0: offset 260
+INFO: main.c(124): tc-1: offset 262
+INFO: main.c(124): tc-2: offset 264
+INFO: main.c(124): tr-0: offset 267
+INFO: main.c(124): tr-1: offset 273
+INFO: main.c(124): tr-2: offset 277
+INFO: main.c(124): uw-0: offset 279
+INFO: main.c(124): uw-1: offset 281
+INFO: main.c(124): uw-2: offset 283
+INFO: main.c(124): uz-0: offset 285
+INFO: main.c(124): uz-1: offset 287
+INFO: main.c(124): uz-2: offset 290
+INFO: main.c(145): n_seno= 293
+!!!!!!!!Allocated 67 lines
+Wed Apr  6 14:10:37 2016

@@ -1,0 +1,474 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-dest_meanfn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.cd_cont_initial/means
+-dest_mixwfn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.cd_cont_initial/mixture_weights
+-dest_moddeffn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_architecture/digit.200.mdef
+-dest_tmatfn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.cd_cont_initial/transition_matrices
+-dest_ts2cbfn		.cont.
+-dest_varfn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.cd_cont_initial/variances
+-example	no	no
+-fullvar	no	no
+-help		no	no
+-src_meanfn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont/means
+-src_mixwfn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont/mixture_weights
+-src_moddeffn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_architecture/digit.ci.mdef
+-src_tmatfn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont/transition_matrices
+-src_ts2cbfn		.cont.
+-src_varfn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont/variances
+
+INFO: main.c(261): Reading src /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_architecture/digit.ci.mdef
+INFO: model_def_io.c(573): Model definition info:
+INFO: model_def_io.c(574): 31 total models defined (31 base, 0 tri)
+INFO: model_def_io.c(575): 124 total states
+INFO: model_def_io.c(576): 93 total tied states
+INFO: model_def_io.c(577): 93 total tied CI states
+INFO: model_def_io.c(578): 31 total tied transition matrices
+INFO: model_def_io.c(579): 4 max state/model
+INFO: model_def_io.c(580): 4 min state/model
+INFO: main.c(278): Generating continous ts2cb mapping
+INFO: main.c(299): Reading src /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont/mixture_weights
+INFO: s3mixw_io.c(117): Read /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont/mixture_weights [93x1x1 array]
+INFO: main.c(309): Reading src /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont/transition_matrices
+INFO: s3tmat_io.c(118): Read /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont/transition_matrices [31x3x4 array]
+INFO: main.c(318): Reading src /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont/means
+INFO: s3gau_io.c(169): Read /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont/means [93x1x1 array]
+INFO: main.c(342): Reading src /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont/variances
+INFO: s3gau_io.c(169): Read /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.ci_cont/variances [93x1x1 array]
+INFO: main.c(391): Reading dest /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_architecture/digit.200.mdef
+INFO: model_def_io.c(573): Model definition info:
+INFO: model_def_io.c(574): 384 total models defined (31 base, 353 tri)
+INFO: model_def_io.c(575): 1536 total states
+INFO: model_def_io.c(576): 293 total tied states
+INFO: model_def_io.c(577): 93 total tied CI states
+INFO: model_def_io.c(578): 31 total tied transition matrices
+INFO: model_def_io.c(579): 4 max state/model
+INFO: model_def_io.c(580): 4 min state/model
+INFO: main.c(407): Generating continous ts2cb mapping
+INFO: main.c(431): Calculating initial model parameters
+INFO: main.c(439): Alloc 31x3x4 dest tmat
+INFO: main.c(450): Alloc 293x1x1 dest mixw
+INFO: main.c(463): Alloc 293x1x1 dest mean and var
+       SIL <- SIL       : [tm     0 +=     0]
+[mx     0(0) +=     0] [mg     0(0) <-     0] [mx     1(1) +=     1] [mg     1(1) <-     1] [mx     2(2) +=     2] [mg     2(2) <-     2] 
+         a <- a         : [tm     1 +=     1]
+[mx     3(0) +=     3] [mg     3(0) <-     3] [mx     4(1) +=     4] [mg     4(1) <-     4] [mx     5(2) +=     5] [mg     5(2) <-     5] 
+       aar <- aar       : [tm     2 +=     2]
+[mx     6(0) +=     6] [mg     6(0) <-     6] [mx     7(1) +=     7] [mg     7(1) <-     7] [mx     8(2) +=     8] [mg     8(2) <-     8] 
+        as <- as        : [tm     3 +=     3]
+[mx     9(0) +=     9] [mg     9(0) <-     9] [mx    10(1) +=    10] [mg    10(1) <-    10] [mx    11(2) +=    11] [mg    11(2) <-    11] 
+        aw <- aw        : [tm     4 +=     4]
+[mx    12(0) +=    12] [mg    12(0) <-    12] [mx    13(1) +=    13] [mg    13(1) <-    13] [mx    14(2) +=    14] [mg    14(2) <-    14] 
+         b <- b         : [tm     5 +=     5]
+[mx    15(0) +=    15] [mg    15(0) <-    15] [mx    16(1) +=    16] [mg    16(1) <-    16] [mx    17(2) +=    17] [mg    17(2) <-    17] 
+        ch <- ch        : [tm     6 +=     6]
+[mx    18(0) +=    18] [mg    18(0) <-    18] [mx    19(1) +=    19] [mg    19(1) <-    19] [mx    20(2) +=    20] [mg    20(2) <-    20] 
+         h <- h         : [tm     7 +=     7]
+[mx    21(0) +=    21] [mg    21(0) <-    21] [mx    22(1) +=    22] [mg    22(1) <-    22] [mx    23(2) +=    23] [mg    23(2) <-    23] 
+         i <- i         : [tm     8 +=     8]
+[mx    24(0) +=    24] [mg    24(0) <-    24] [mx    25(1) +=    25] [mg    25(1) <-    25] [mx    26(2) +=    26] [mg    26(2) <-    26] 
+        if <- if        : [tm     9 +=     9]
+[mx    27(0) +=    27] [mg    27(0) <-    27] [mx    28(1) +=    28] [mg    28(1) <-    28] [mx    29(2) +=    29] [mg    29(2) <-    29] 
+        is <- is        : [tm    10 +=    10]
+[mx    30(0) +=    30] [mg    30(0) <-    30] [mx    31(1) +=    31] [mg    31(1) <-    31] [mx    32(2) +=    32] [mg    32(2) <-    32] 
+        iz <- iz        : [tm    11 +=    11]
+[mx    33(0) +=    33] [mg    33(0) <-    33] [mx    34(1) +=    34] [mg    34(1) <-    34] [mx    35(2) +=    35] [mg    35(2) <-    35] 
+        kh <- kh        : [tm    12 +=    12]
+[mx    36(0) +=    36] [mg    36(0) <-    36] [mx    37(1) +=    37] [mg    37(1) <-    37] [mx    38(2) +=    38] [mg    38(2) <-    38] 
+         l <- l         : [tm    13 +=    13]
+[mx    39(0) +=    39] [mg    39(0) <-    39] [mx    40(1) +=    40] [mg    40(1) <-    40] [mx    41(2) +=    41] [mg    41(2) <-    41] 
+         m <- m         : [tm    14 +=    14]
+[mx    42(0) +=    42] [mg    42(0) <-    42] [mx    43(1) +=    43] [mg    43(1) <-    43] [mx    44(2) +=    44] [mg    44(2) <-    44] 
+        mz <- mz        : [tm    15 +=    15]
+[mx    45(0) +=    45] [mg    45(0) <-    45] [mx    46(1) +=    46] [mg    46(1) <-    46] [mx    47(2) +=    47] [mg    47(2) <-    47] 
+         n <- n         : [tm    16 +=    16]
+[mx    48(0) +=    48] [mg    48(0) <-    48] [mx    49(1) +=    49] [mg    49(1) <-    49] [mx    50(2) +=    50] [mg    50(2) <-    50] 
+        ng <- ng        : [tm    17 +=    17]
+[mx    51(0) +=    51] [mg    51(0) <-    51] [mx    52(1) +=    52] [mg    52(1) <-    52] [mx    53(2) +=    53] [mg    53(2) <-    53] 
+       ngz <- ngz       : [tm    18 +=    18]
+[mx    54(0) +=    54] [mg    54(0) <-    54] [mx    55(1) +=    55] [mg    55(1) <-    55] [mx    56(2) +=    56] [mg    56(2) <-    56] 
+        nz <- nz        : [tm    19 +=    19]
+[mx    57(0) +=    57] [mg    57(0) <-    57] [mx    58(1) +=    58] [mg    58(1) <-    58] [mx    59(2) +=    59] [mg    59(2) <-    59] 
+        oo <- oo        : [tm    20 +=    20]
+[mx    60(0) +=    60] [mg    60(0) <-    60] [mx    61(1) +=    61] [mg    61(1) <-    61] [mx    62(2) +=    62] [mg    62(2) <-    62] 
+       ooj <- ooj       : [tm    21 +=    21]
+[mx    63(0) +=    63] [mg    63(0) <-    63] [mx    64(1) +=    64] [mg    64(1) <-    64] [mx    65(2) +=    65] [mg    65(2) <-    65] 
+       oos <- oos       : [tm    22 +=    22]
+[mx    66(0) +=    66] [mg    66(0) <-    66] [mx    67(1) +=    67] [mg    67(1) <-    67] [mx    68(2) +=    68] [mg    68(2) <-    68] 
+        ow <- ow        : [tm    23 +=    23]
+[mx    69(0) +=    69] [mg    69(0) <-    69] [mx    70(1) +=    70] [mg    70(1) <-    70] [mx    71(2) +=    71] [mg    71(2) <-    71] 
+       owf <- owf       : [tm    24 +=    24]
+[mx    72(0) +=    72] [mg    72(0) <-    72] [mx    73(1) +=    73] [mg    73(1) <-    73] [mx    74(2) +=    74] [mg    74(2) <-    74] 
+         s <- s         : [tm    25 +=    25]
+[mx    75(0) +=    75] [mg    75(0) <-    75] [mx    76(1) +=    76] [mg    76(1) <-    76] [mx    77(2) +=    77] [mg    77(2) <-    77] 
+         t <- t         : [tm    26 +=    26]
+[mx    78(0) +=    78] [mg    78(0) <-    78] [mx    79(1) +=    79] [mg    79(1) <-    79] [mx    80(2) +=    80] [mg    80(2) <-    80] 
+        tc <- tc        : [tm    27 +=    27]
+[mx    81(0) +=    81] [mg    81(0) <-    81] [mx    82(1) +=    82] [mg    82(1) <-    82] [mx    83(2) +=    83] [mg    83(2) <-    83] 
+        tr <- tr        : [tm    28 +=    28]
+[mx    84(0) +=    84] [mg    84(0) <-    84] [mx    85(1) +=    85] [mg    85(1) <-    85] [mx    86(2) +=    86] [mg    86(2) <-    86] 
+        uw <- uw        : [tm    29 +=    29]
+[mx    87(0) +=    87] [mg    87(0) <-    87] [mx    88(1) +=    88] [mg    88(1) <-    88] [mx    89(2) +=    89] [mg    89(2) <-    89] 
+        uz <- uz        : [tm    30 +=    30]
+[mx    90(0) +=    90] [mg    90(0) <-    90] [mx    91(1) +=    91] [mg    91(1) <-    91] [mx    92(2) +=    92] [mg    92(2) <-    92] 
+ a b SIL e <- a         : [mx    93(0) +=     3] [mg    93(0) <-     3] [mx    95(1) +=     4] [mg    95(1) <-     4] [mx    99(2) +=     5] [mg    99(2) <-     5] 
+   a b b e <- a         : 
+  a b ch e <- a         : 
+   a b h e <- a         : [mx   100(2) +=     5] [mg   100(2) <-     5] 
+  a b kh e <- a         : 
+   a b l e <- a         : [mx    96(1) +=     4] [mg    96(1) <-     4] [mx   101(2) +=     5] [mg   101(2) <-     5] 
+   a b m e <- a         : 
+   a b n e <- a         : 
+  a b ng e <- a         : [mx    97(1) +=     4] [mg    97(1) <-     4] [mx   102(2) +=     5] [mg   102(2) <-     5] 
+   a b s e <- a         : 
+   a b t e <- a         : 
+  a b tr e <- a         : 
+  a h iz i <- a         : [mx    94(0) +=     3] [mg    94(0) <-     3] [mx    98(1) +=     4] [mg    98(1) <-     4] [mx   103(2) +=     5] [mg   103(2) <-     5] 
+aar b iz i <- aar       : [mx   104(0) +=     6] [mg   104(0) <-     6] [mx   105(1) +=     7] [mg   105(1) <-     7] [mx   106(2) +=     8] [mg   106(2) <-     8] 
+ as s uz i <- as        : [mx   107(0) +=     9] [mg   107(0) <-     9] [mx   109(1) +=    10] [mg   109(1) <-    10] [mx   111(2) +=    11] [mg   111(2) <-    11] 
+ as t mz i <- as        : [mx   108(0) +=     9] [mg   108(0) <-     9] [mx   110(1) +=    10] [mg   110(1) <-    10] [mx   112(2) +=    11] [mg   112(2) <-    11] 
+ aw n mz i <- aw        : [mx   113(0) +=    12] [mg   113(0) <-    12] [mx   115(1) +=    13] [mg   115(1) <-    13] [mx   117(2) +=    14] [mg   117(2) <-    14] 
+aw tr mz i <- aw        : [mx   114(0) +=    12] [mg   114(0) <-    12] [mx   116(1) +=    13] [mg   116(1) <-    13] [mx   118(2) +=    14] [mg   118(2) <-    14] 
+ b SIL a b <- b         : [mx   119(0) +=    15] [mg   119(0) <-    15] [mx   126(1) +=    16] [mg   126(1) <-    16] [mx   129(2) +=    17] [mg   129(2) <-    17] 
+b SIL aar b <- b         : [mx   124(1) +=    16] [mg   124(1) <-    16] [mx   130(2) +=    17] [mg   130(2) <-    17] 
+b SIL oos b <- b         : [mx   121(0) +=    15] [mg   121(0) <-    15] [mx   127(1) +=    16] [mg   127(1) <-    16] [mx   132(2) +=    17] [mg   132(2) <-    17] 
+   b a a b <- b         : [mx   123(0) +=    15] [mg   123(0) <-    15] 
+ b a aar b <- b         : 
+ b a oos b <- b         : [mx   131(2) +=    17] [mg   131(2) <-    17] 
+  b iz a b <- b         : 
+b iz aar b <- b         : 
+b iz oos b <- b         : 
+  b mz a b <- b         : [mx   120(0) +=    15] [mg   120(0) <-    15] 
+b mz aar b <- b         : [mx   125(1) +=    16] [mg   125(1) <-    16] 
+b mz oos b <- b         : [mx   128(1) +=    16] [mg   128(1) <-    16] 
+ b ngz a b <- b         : 
+b ngz aar b <- b         : 
+b ngz oos b <- b         : 
+  b nz a b <- b         : 
+b nz aar b <- b         : 
+b nz oos b <- b         : 
+  b tc a b <- b         : 
+b tc aar b <- b         : 
+b tc oos b <- b         : 
+  b uw a b <- b         : [mx   122(0) +=    15] [mg   122(0) <-    15] 
+b uw aar b <- b         : 
+b uw oos b <- b         : 
+  b uz a b <- b         : 
+b uz aar b <- b         : 
+b uz oos b <- b         : 
+ch SIL is b <- ch        : [mx   133(0) +=    18] [mg   133(0) <-    18] [mx   136(1) +=    19] [mg   136(1) <-    19] [mx   137(2) +=    20] [mg   137(2) <-    20] 
+ ch a is b <- ch        : [mx   135(0) +=    18] [mg   135(0) <-    18] 
+ch iz is b <- ch        : 
+ch mz is b <- ch        : [mx   134(0) +=    18] [mg   134(0) <-    18] 
+ch ngz is b <- ch        : 
+ch nz is b <- ch        : 
+ch tc is b <- ch        : 
+ch uw is b <- ch        : 
+ch uz is b <- ch        : 
+ h SIL a b <- h         : [mx   138(0) +=    21] [mg   138(0) <-    21] [mx   140(1) +=    22] [mg   140(1) <-    22] [mx   143(2) +=    23] [mg   143(2) <-    23] 
+   h a a b <- h         : [mx   141(1) +=    22] [mg   141(1) <-    22] 
+  h iz a b <- h         : 
+  h mz a b <- h         : [mx   139(0) +=    21] [mg   139(0) <-    21] [mx   142(1) +=    22] [mg   142(1) <-    22] [mx   144(2) +=    23] [mg   144(2) <-    23] 
+ h ngz a b <- h         : 
+  h nz a b <- h         : 
+  h tc a b <- h         : 
+  h uw a b <- h         : 
+  h uz a b <- h         : 
+ i l ngz i <- i         : [mx   145(0) +=    24] [mg   145(0) <-    24] [mx   146(1) +=    25] [mg   146(1) <-    25] [mx   147(2) +=    26] [mg   147(2) <-    26] 
+if ng nz i <- if        : [mx   148(0) +=    27] [mg   148(0) <-    27] [mx   149(1) +=    28] [mg   149(1) <-    28] [mx   150(2) +=    29] [mg   150(2) <-    29] 
+is ch nz i <- is        : [mx   151(0) +=    30] [mg   151(0) <-    30] [mx   152(1) +=    31] [mg   152(1) <-    31] [mx   153(2) +=    32] [mg   153(2) <-    32] 
+iz a SIL e <- iz        : [mx   157(0) +=    33] [mg   157(0) <-    33] [mx   159(1) +=    34] [mg   159(1) <-    34] [mx   166(2) +=    35] [mg   166(2) <-    35] 
+  iz a b e <- iz        : [mx   160(1) +=    34] [mg   160(1) <-    34] [mx   165(2) +=    35] [mg   165(2) <-    35] 
+ iz a ch e <- iz        : 
+  iz a h e <- iz        : 
+ iz a kh e <- iz        : 
+  iz a l e <- iz        : [mx   158(0) +=    33] [mg   158(0) <-    33] [mx   162(1) +=    34] [mg   162(1) <-    34] [mx   169(2) +=    35] [mg   169(2) <-    35] 
+  iz a m e <- iz        : 
+  iz a n e <- iz        : 
+ iz a ng e <- iz        : 
+  iz a s e <- iz        : 
+  iz a t e <- iz        : 
+ iz a tr e <- iz        : 
+iz aar SIL e <- iz        : [mx   154(0) +=    33] [mg   154(0) <-    33] [mx   163(1) +=    34] [mg   163(1) <-    34] [mx   167(2) +=    35] [mg   167(2) <-    35] 
+iz aar b e <- iz        : 
+iz aar ch e <- iz        : 
+iz aar h e <- iz        : 
+iz aar kh e <- iz        : 
+iz aar l e <- iz        : [mx   156(0) +=    33] [mg   156(0) <-    33] [mx   164(1) +=    34] [mg   164(1) <-    34] [mx   168(2) +=    35] [mg   168(2) <-    35] 
+iz aar m e <- iz        : 
+iz aar n e <- iz        : 
+iz aar ng e <- iz        : 
+iz aar s e <- iz        : 
+iz aar t e <- iz        : 
+iz aar tr e <- iz        : 
+iz ow SIL e <- iz        : 
+ iz ow b e <- iz        : 
+iz ow ch e <- iz        : 
+ iz ow h e <- iz        : 
+iz ow kh e <- iz        : 
+ iz ow l e <- iz        : 
+ iz ow m e <- iz        : 
+ iz ow n e <- iz        : 
+iz ow ng e <- iz        : 
+ iz ow s e <- iz        : 
+ iz ow t e <- iz        : 
+iz ow tr e <- iz        : 
+iz owf SIL e <- iz        : [mx   155(0) +=    33] [mg   155(0) <-    33] [mx   161(1) +=    34] [mg   161(1) <-    34] 
+iz owf b e <- iz        : 
+iz owf ch e <- iz        : 
+iz owf h e <- iz        : 
+iz owf kh e <- iz        : 
+iz owf l e <- iz        : 
+iz owf m e <- iz        : 
+iz owf n e <- iz        : 
+iz owf ng e <- iz        : 
+iz owf s e <- iz        : 
+iz owf t e <- iz        : 
+iz owf tr e <- iz        : 
+kh SIL oo b <- kh        : [mx   170(0) +=    36] [mg   170(0) <-    36] [mx   172(1) +=    37] [mg   172(1) <-    37] [mx   173(2) +=    38] [mg   173(2) <-    38] 
+ kh a oo b <- kh        : 
+kh iz oo b <- kh        : 
+kh mz oo b <- kh        : [mx   171(0) +=    36] [mg   171(0) <-    36] 
+kh ngz oo b <- kh        : 
+kh nz oo b <- kh        : 
+kh tc oo b <- kh        : 
+kh uw oo b <- kh        : 
+kh uz oo b <- kh        : 
+ l SIL i b <- l         : [mx   174(0) +=    39] [mg   174(0) <-    39] [mx   175(1) +=    40] [mg   175(1) <-    40] [mx   176(2) +=    41] [mg   176(2) <-    41] 
+   l a i b <- l         : 
+  l iz i b <- l         : 
+  l mz i b <- l         : 
+ l ngz i b <- l         : 
+  l nz i b <- l         : 
+  l tc i b <- l         : 
+  l uw i b <- l         : 
+  l uz i b <- l         : 
+m SIL ooj b <- m         : [mx   177(0) +=    42] [mg   177(0) <-    42] [mx   180(1) +=    43] [mg   180(1) <-    43] [mx   183(2) +=    44] [mg   183(2) <-    44] 
+m SIL oos b <- m         : [mx   178(0) +=    42] [mg   178(0) <-    42] [mx   181(1) +=    43] [mg   181(1) <-    43] [mx   185(2) +=    44] [mg   185(2) <-    44] 
+m SIL uw b <- m         : [mx   179(0) +=    42] [mg   179(0) <-    42] [mx   184(2) +=    44] [mg   184(2) <-    44] 
+ m a ooj b <- m         : [mx   182(1) +=    43] [mg   182(1) <-    43] 
+ m a oos b <- m         : 
+  m a uw b <- m         : 
+m iz ooj b <- m         : 
+m iz oos b <- m         : 
+ m iz uw b <- m         : 
+m mz ooj b <- m         : 
+m mz oos b <- m         : 
+ m mz uw b <- m         : 
+m ngz ooj b <- m         : 
+m ngz oos b <- m         : 
+m ngz uw b <- m         : 
+m nz ooj b <- m         : 
+m nz oos b <- m         : 
+ m nz uw b <- m         : 
+m tc ooj b <- m         : 
+m tc oos b <- m         : 
+ m tc uw b <- m         : 
+m uw ooj b <- m         : 
+m uw oos b <- m         : 
+ m uw uw b <- m         : 
+m uz ooj b <- m         : 
+m uz oos b <- m         : 
+ m uz uw b <- m         : 
+mz as SIL e <- mz        : [mx   188(0) +=    45] [mg   188(0) <-    45] [mx   190(1) +=    46] [mg   190(1) <-    46] [mx   191(2) +=    47] [mg   191(2) <-    47] 
+ mz as b e <- mz        : [mx   195(2) +=    47] [mg   195(2) <-    47] 
+mz as ch e <- mz        : 
+ mz as h e <- mz        : 
+mz as kh e <- mz        : 
+ mz as l e <- mz        : [mx   193(2) +=    47] [mg   193(2) <-    47] 
+ mz as m e <- mz        : 
+ mz as n e <- mz        : 
+mz as ng e <- mz        : [mx   189(1) +=    46] [mg   189(1) <-    46] [mx   192(2) +=    47] [mg   192(2) <-    47] 
+ mz as s e <- mz        : 
+ mz as t e <- mz        : 
+mz as tr e <- mz        : [mx   194(2) +=    47] [mg   194(2) <-    47] 
+mz aw SIL e <- mz        : [mx   186(0) +=    45] [mg   186(0) <-    45] 
+ mz aw b e <- mz        : [mx   196(2) +=    47] [mg   196(2) <-    47] 
+mz aw ch e <- mz        : 
+ mz aw h e <- mz        : 
+mz aw kh e <- mz        : 
+ mz aw l e <- mz        : 
+ mz aw m e <- mz        : 
+ mz aw n e <- mz        : 
+mz aw ng e <- mz        : [mx   187(0) +=    45] [mg   187(0) <-    45] 
+ mz aw s e <- mz        : 
+ mz aw t e <- mz        : 
+mz aw tr e <- mz        : 
+n SIL aw b <- n         : [mx   197(0) +=    48] [mg   197(0) <-    48] [mx   201(1) +=    49] [mg   201(1) <-    49] [mx   202(2) +=    50] [mg   202(2) <-    50] 
+  n a aw b <- n         : [mx   200(1) +=    49] [mg   200(1) <-    49] [mx   203(2) +=    50] [mg   203(2) <-    50] 
+ n iz aw b <- n         : 
+ n mz aw b <- n         : [mx   199(0) +=    48] [mg   199(0) <-    48] 
+n ngz aw b <- n         : 
+ n nz aw b <- n         : 
+ n tc aw b <- n         : 
+ n uw aw b <- n         : 
+ n uz aw b <- n         : [mx   198(0) +=    48] [mg   198(0) <-    48] 
+ng SIL if b <- ng        : [mx   204(0) +=    51] [mg   204(0) <-    51] [mx   207(1) +=    52] [mg   207(1) <-    52] [mx   209(2) +=    53] [mg   209(2) <-    53] 
+ ng a if b <- ng        : [mx   206(0) +=    51] [mg   206(0) <-    51] [mx   208(1) +=    52] [mg   208(1) <-    52] 
+ng iz if b <- ng        : [mx   210(2) +=    53] [mg   210(2) <-    53] 
+ng mz if b <- ng        : [mx   205(0) +=    51] [mg   205(0) <-    51] 
+ng ngz if b <- ng        : 
+ng nz if b <- ng        : 
+ng tc if b <- ng        : 
+ng uw if b <- ng        : 
+ng uz if b <- ng        : 
+ngz i SIL e <- ngz       : [mx   212(0) +=    54] [mg   212(0) <-    54] [mx   215(1) +=    55] [mg   215(1) <-    55] [mx   216(2) +=    56] [mg   216(2) <-    56] 
+ ngz i b e <- ngz       : 
+ngz i ch e <- ngz       : 
+ ngz i h e <- ngz       : 
+ngz i kh e <- ngz       : 
+ ngz i l e <- ngz       : 
+ ngz i m e <- ngz       : 
+ ngz i n e <- ngz       : 
+ngz i ng e <- ngz       : 
+ ngz i s e <- ngz       : 
+ ngz i t e <- ngz       : 
+ngz i tr e <- ngz       : 
+ngz oo SIL e <- ngz       : [mx   211(0) +=    54] [mg   211(0) <-    54] [mx   213(1) +=    55] [mg   213(1) <-    55] 
+ngz oo b e <- ngz       : [mx   214(1) +=    55] [mg   214(1) <-    55] 
+ngz oo ch e <- ngz       : 
+ngz oo h e <- ngz       : 
+ngz oo kh e <- ngz       : 
+ngz oo l e <- ngz       : 
+ngz oo m e <- ngz       : 
+ngz oo n e <- ngz       : 
+ngz oo ng e <- ngz       : 
+ngz oo s e <- ngz       : 
+ngz oo t e <- ngz       : 
+ngz oo tr e <- ngz       : 
+nz if SIL e <- nz        : [mx   219(0) +=    57] [mg   219(0) <-    57] [mx   225(1) +=    58] [mg   225(1) <-    58] [mx   226(2) +=    59] [mg   226(2) <-    59] 
+ nz if b e <- nz        : 
+nz if ch e <- nz        : 
+ nz if h e <- nz        : 
+nz if kh e <- nz        : 
+ nz if l e <- nz        : 
+ nz if m e <- nz        : 
+ nz if n e <- nz        : 
+nz if ng e <- nz        : 
+ nz if s e <- nz        : 
+ nz if t e <- nz        : 
+nz if tr e <- nz        : 
+nz is SIL e <- nz        : [mx   217(0) +=    57] [mg   217(0) <-    57] [mx   222(1) +=    58] [mg   222(1) <-    58] 
+ nz is b e <- nz        : [mx   227(2) +=    59] [mg   227(2) <-    59] 
+nz is ch e <- nz        : 
+ nz is h e <- nz        : 
+nz is kh e <- nz        : 
+ nz is l e <- nz        : [mx   218(0) +=    57] [mg   218(0) <-    57] [mx   224(1) +=    58] [mg   224(1) <-    58] [mx   228(2) +=    59] [mg   228(2) <-    59] 
+ nz is m e <- nz        : 
+ nz is n e <- nz        : 
+nz is ng e <- nz        : [mx   229(2) +=    59] [mg   229(2) <-    59] 
+ nz is s e <- nz        : 
+ nz is t e <- nz        : 
+nz is tr e <- nz        : 
+nz oos SIL e <- nz        : [mx   221(0) +=    57] [mg   221(0) <-    57] [mx   223(1) +=    58] [mg   223(1) <-    58] 
+nz oos b e <- nz        : 
+nz oos ch e <- nz        : 
+nz oos h e <- nz        : 
+nz oos kh e <- nz        : 
+nz oos l e <- nz        : [mx   220(0) +=    57] [mg   220(0) <-    57] 
+nz oos m e <- nz        : 
+nz oos n e <- nz        : 
+nz oos ng e <- nz        : 
+nz oos s e <- nz        : 
+nz oos t e <- nz        : 
+nz oos tr e <- nz        : 
+oo kh ngz i <- oo        : [mx   230(0) +=    60] [mg   230(0) <-    60] [mx   231(1) +=    61] [mg   231(1) <-    61] [mx   232(2) +=    62] [mg   232(2) <-    62] 
+ooj m tc i <- ooj       : [mx   233(0) +=    63] [mg   233(0) <-    63] [mx   234(1) +=    64] [mg   234(1) <-    64] [mx   235(2) +=    65] [mg   235(2) <-    65] 
+oos b nz i <- oos       : [mx   236(0) +=    66] [mg   236(0) <-    66] [mx   238(1) +=    67] [mg   238(1) <-    67] [mx   240(2) +=    68] [mg   240(2) <-    68] 
+oos m tc i <- oos       : [mx   237(0) +=    66] [mg   237(0) <-    66] [mx   239(1) +=    67] [mg   239(1) <-    67] [mx   241(2) +=    68] [mg   241(2) <-    68] 
+ow uw iz i <- ow        : [mx   242(0) +=    69] [mg   242(0) <-    69] [mx   243(1) +=    70] [mg   243(1) <-    70] [mx   244(2) +=    71] [mg   244(2) <-    71] 
+owf uw iz i <- owf       : [mx   245(0) +=    72] [mg   245(0) <-    72] [mx   246(1) +=    73] [mg   246(1) <-    73] [mx   247(2) +=    74] [mg   247(2) <-    74] 
+s SIL as b <- s         : [mx   248(0) +=    75] [mg   248(0) <-    75] [mx   250(1) +=    76] [mg   250(1) <-    76] [mx   251(2) +=    77] [mg   251(2) <-    77] 
+  s a as b <- s         : [mx   249(0) +=    75] [mg   249(0) <-    75] 
+ s iz as b <- s         : 
+ s mz as b <- s         : 
+s ngz as b <- s         : 
+ s nz as b <- s         : 
+ s tc as b <- s         : 
+ s uw as b <- s         : 
+ s uz as b <- s         : 
+t SIL as b <- t         : [mx   252(0) +=    78] [mg   252(0) <-    78] [mx   254(1) +=    79] [mg   254(1) <-    79] [mx   256(2) +=    80] [mg   256(2) <-    80] 
+t SIL uw b <- t         : [mx   253(0) +=    78] [mg   253(0) <-    78] [mx   255(1) +=    79] [mg   255(1) <-    79] [mx   258(2) +=    80] [mg   258(2) <-    80] 
+  t a as b <- t         : 
+  t a uw b <- t         : 
+ t iz as b <- t         : 
+ t iz uw b <- t         : 
+ t mz as b <- t         : [mx   257(2) +=    80] [mg   257(2) <-    80] 
+ t mz uw b <- t         : 
+t ngz as b <- t         : 
+t ngz uw b <- t         : 
+ t nz as b <- t         : 
+ t nz uw b <- t         : 
+ t tc as b <- t         : 
+ t tc uw b <- t         : 
+ t uw as b <- t         : 
+ t uw uw b <- t         : 
+ t uz as b <- t         : 
+ t uz uw b <- t         : 
+tc ooj SIL e <- tc        : [mx   259(0) +=    81] [mg   259(0) <-    81] [mx   263(1) +=    82] [mg   263(1) <-    82] [mx   264(2) +=    83] [mg   264(2) <-    83] 
+tc ooj b e <- tc        : [mx   260(0) +=    81] [mg   260(0) <-    81] [mx   262(1) +=    82] [mg   262(1) <-    82] [mx   265(2) +=    83] [mg   265(2) <-    83] 
+tc ooj ch e <- tc        : 
+tc ooj h e <- tc        : 
+tc ooj kh e <- tc        : 
+tc ooj l e <- tc        : [mx   266(2) +=    83] [mg   266(2) <-    83] 
+tc ooj m e <- tc        : 
+tc ooj n e <- tc        : 
+tc ooj ng e <- tc        : 
+tc ooj s e <- tc        : 
+tc ooj t e <- tc        : 
+tc ooj tr e <- tc        : 
+tc oos SIL e <- tc        : 
+tc oos b e <- tc        : 
+tc oos ch e <- tc        : 
+tc oos h e <- tc        : 
+tc oos kh e <- tc        : 
+tc oos l e <- tc        : [mx   261(0) +=    81] [mg   261(0) <-    81] 
+tc oos m e <- tc        : 
+tc oos n e <- tc        : 
+tc oos ng e <- tc        : 
+tc oos s e <- tc        : 
+tc oos t e <- tc        : 
+tc oos tr e <- tc        : 
+tr SIL aw b <- tr        : [mx   267(0) +=    84] [mg   267(0) <-    84] [mx   273(1) +=    85] [mg   273(1) <-    85] [mx   277(2) +=    86] [mg   277(2) <-    86] 
+ tr a aw b <- tr        : [mx   272(0) +=    84] [mg   272(0) <-    84] [mx   276(1) +=    85] [mg   276(1) <-    85] [mx   278(2) +=    86] [mg   278(2) <-    86] 
+tr iz aw b <- tr        : [mx   268(0) +=    84] [mg   268(0) <-    84] 
+tr mz aw b <- tr        : [mx   270(0) +=    84] [mg   270(0) <-    84] [mx   274(1) +=    85] [mg   274(1) <-    85] 
+tr ngz aw b <- tr        : 
+tr nz aw b <- tr        : 
+tr tc aw b <- tr        : [mx   269(0) +=    84] [mg   269(0) <-    84] 
+tr uw aw b <- tr        : 
+tr uz aw b <- tr        : [mx   271(0) +=    84] [mg   271(0) <-    84] [mx   275(1) +=    85] [mg   275(1) <-    85] 
+ uw m ow i <- uw        : [mx   280(0) +=    87] [mg   280(0) <-    87] [mx   282(1) +=    88] [mg   282(1) <-    88] [mx   284(2) +=    89] [mg   284(2) <-    89] 
+uw m owf i <- uw        : 
+uw t SIL e <- uw        : [mx   279(0) +=    87] [mg   279(0) <-    87] [mx   281(1) +=    88] [mg   281(1) <-    88] [mx   283(2) +=    89] [mg   283(2) <-    89] 
+  uw t b e <- uw        : 
+ uw t ch e <- uw        : 
+  uw t h e <- uw        : 
+ uw t kh e <- uw        : 
+  uw t l e <- uw        : 
+  uw t m e <- uw        : 
+  uw t n e <- uw        : 
+ uw t ng e <- uw        : 
+  uw t s e <- uw        : 
+  uw t t e <- uw        : 
+ uw t tr e <- uw        : 
+uz as SIL e <- uz        : [mx   285(0) +=    90] [mg   285(0) <-    90] [mx   287(1) +=    91] [mg   287(1) <-    91] [mx   292(2) +=    92] [mg   292(2) <-    92] 
+ uz as b e <- uz        : [mx   288(1) +=    91] [mg   288(1) <-    91] [mx   291(2) +=    92] [mg   291(2) <-    92] 
+uz as ch e <- uz        : 
+ uz as h e <- uz        : 
+uz as kh e <- uz        : 
+ uz as l e <- uz        : [mx   286(0) +=    90] [mg   286(0) <-    90] [mx   289(1) +=    91] [mg   289(1) <-    91] [mx   290(2) +=    92] [mg   290(2) <-    92] 
+ uz as m e <- uz        : 
+ uz as n e <- uz        : 
+uz as ng e <- uz        : 
+ uz as s e <- uz        : 
+ uz as t e <- uz        : 
+uz as tr e <- uz        : INFO: main.c(529): Writing dest /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.cd_cont_initial/transition_matrices
+INFO: s3tmat_io.c(176): Wrote /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.cd_cont_initial/transition_matrices [31x3x4 array]
+INFO: main.c(540): Writing dest /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.cd_cont_initial/mixture_weights
+INFO: s3mixw_io.c(233): Wrote /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.cd_cont_initial/mixture_weights [293x1x1 array]
+INFO: main.c(549): Writing dest /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.cd_cont_initial/means
+INFO: s3gau_io.c(228): Wrote /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.cd_cont_initial/means [293x1x1 array]
+INFO: main.c(561): Writing dest /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.cd_cont_initial/variances
+INFO: s3gau_io.c(228): Wrote /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_parameters/digit.cd_cont_initial/variances [293x1x1 array]
+
+Thu Apr  7 00:44:46 2016

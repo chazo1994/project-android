@@ -1,0 +1,65 @@
+WDBNDRY_B
+WDBNDRY_E
+WDBNDRY_S
+WDBNDRY_I
+SILENCE   SIL
+QUESTION0_0_R  a aar as if is iz mz ow owf uz
+QUESTION0_1_R  a aar mz ow
+QUESTION0_2_R  as if is iz owf uz
+QUESTION0_3_R  aw b ch h i kh l m n ng ngz nz oo ooj oos s t tc tr uw
+QUESTION0_4_R  aw b ch h kh m n ngz s t tc
+QUESTION0_5_R  b m
+QUESTION0_6_R  aw ch h kh n ngz s t tc
+QUESTION0_7_R  aw ch ngz s tc
+QUESTION0_8_R  aw ch s
+QUESTION0_9_R  ngz tc
+QUESTION0_10_R  h kh n t
+QUESTION0_11_R  i l ng nz oo ooj oos tr uw
+QUESTION0_12_R  nz
+QUESTION0_13_R  i l ng oo ooj oos tr uw
+QUESTION0_14_R  i l ng oo ooj tr uw
+QUESTION0_15_R  i l ng ooj tr uw
+QUESTION0_16_R  i l ng tr uw
+QUESTION0_17_R  i l
+QUESTION0_18_R  ng tr uw
+QUESTION0_19_R  ng uw
+QUESTION0  a
+QUESTION1  aar as aw b ch h i if is iz kh l m mz n ng ngz nz oo ooj oos ow owf s t tc tr uw uz
+QUESTION2  aar as aw b ch h i kh m mz n ow owf s t tc tr
+QUESTION3  aar aw b ch i m ow owf tc tr
+QUESTION4  aar ow owf
+QUESTION5  aar ow
+QUESTION6  aw b ch i m tc tr
+QUESTION7  aw b i m tc tr
+QUESTION8  as h kh mz n s t
+QUESTION9  if is iz l ng ngz nz oo ooj oos uw uz
+QUESTION10  oos uz
+QUESTION11  if is iz l ng ngz nz oo ooj uw
+QUESTION12  nz ooj
+QUESTION13  if is iz l ng ngz oo uw
+QUESTION14  is iz l ng ngz oo uw
+QUESTION15  is iz
+QUESTION16  l ng ngz oo uw
+QUESTION17  l ng ngz uw
+QUESTION18  l uw
+QUESTION19  ng ngz
+QUESTION2_0_L  a as iz n nz oo ooj t uz
+QUESTION2_1_L  a t
+QUESTION2_2_L  as iz n nz oo ooj uz
+QUESTION2_3_L  aar aw b ch h i if is kh l m mz ng ngz oos ow owf s tc tr uw
+QUESTION2_4_L  aw b h s
+QUESTION2_5_L  aar ch i if is kh l m mz ng ngz oos ow owf tc tr uw
+QUESTION2_6_L  l mz uw
+QUESTION2_7_L  l mz
+QUESTION2_8_L  aar ch i if is kh m ng ngz oos ow owf tc tr
+QUESTION2_9_L  kh m oos
+QUESTION2_10_L  aar ch i if is ng ngz ow owf tc tr
+QUESTION2_11_L  is ng ngz tc tr
+QUESTION2_12_L  is ng
+QUESTION2_13_L  ngz tc tr
+QUESTION2_14_L  ngz tc
+QUESTION2_15_L  aar ch i if ow owf
+QUESTION2_16_L  aar i if ow owf
+QUESTION2_17_L  aar i ow owf
+QUESTION2_18_L  i ow
+QUESTION2_19_L  aar owf

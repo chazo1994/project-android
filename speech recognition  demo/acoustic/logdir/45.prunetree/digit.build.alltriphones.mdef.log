@@ -1,0 +1,37 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-dictfn			/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/etc/digit.dic
+-example	no	no
+-fdictfn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/etc/digit.filler
+-help		no	no
+-ignorewpos	no	no
+-inCDmdef		
+-inCImdef		
+-lsnfn			
+-maxtriphones	100000	100000
+-minocc		1	1
+-n_state_pm	3	3
+-oalltphnmdef		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/model_architecture/digit.alltriphones.mdef
+-ocimdef		
+-ocountfn		
+-ountiedmdef		
+-phnlstfn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/model_architecture/digit.phonelist
+-triphnlstfn		
+
+INFO: main.c(94): Will write alltriphone mdef file /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/model_architecture/digit.alltriphones.mdef
+INFO: mk_mdef_gen.c(189): 0 single word triphones in input phone list
+INFO: mk_mdef_gen.c(190): 0 word beginning triphones in input phone list
+INFO: mk_mdef_gen.c(191): 0 word internal triphones in input phone list
+INFO: mk_mdef_gen.c(192): 0 word ending triphones in input phone list
+INFO: mk_mdef_gen.c(280): Reading dict /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/etc/digit.dic
+INFO: mk_mdef_gen.c(322): 17 words in dict /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/etc/digit.dic
+INFO: mk_mdef_gen.c(280): Reading dict /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/etc/digit.filler
+INFO: mk_mdef_gen.c(322): 3 words in dict /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/etc/digit.filler
+INFO: mk_mdef_gen.c(442): 20 words in dictionary
+INFO: mk_mdef_gen.c(443): 0 unique single word triphones in dictionary
+INFO: mk_mdef_gen.c(444): 144 unique word beginning triphones in dictionary
+INFO: mk_mdef_gen.c(445): 17 unique word internal triphones in dictionary
+INFO: mk_mdef_gen.c(446): 192 unique word ending triphones in dictionary
+INFO: mk_mdef_gen.c(897): 31 n_base, 353 n_tri
+INFO: mk_mdef_gen.c(969): Wrote mdef file /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/acoustic/model_architecture/digit.alltriphones.mdef
+Wed Apr  6 14:10:37 2016

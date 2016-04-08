@@ -1,0 +1,50 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-dictfn			/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/etc/digit.dic
+-example	no	no
+-fdictfn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/etc/digit.filler
+-help		no	no
+-ignorewpos	no	no
+-inCDmdef		
+-inCImdef		
+-lsnfn			/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/etc/digit_train.transcription
+-maxtriphones	100000	100000
+-minocc		1	1
+-n_state_pm	3	3
+-oalltphnmdef		
+-ocimdef		
+-ocountfn		
+-ountiedmdef		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_architecture/digit.untied.mdef
+-phnlstfn		/home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/etc/digit.phone
+-triphnlstfn		
+
+INFO: main.c(95): Will write untied mdef file /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_architecture/digit.untied.mdef
+INFO: mk_mdef_gen.c(189): 0 single word triphones in input phone list
+INFO: mk_mdef_gen.c(190): 0 word beginning triphones in input phone list
+INFO: mk_mdef_gen.c(191): 0 word internal triphones in input phone list
+INFO: mk_mdef_gen.c(192): 0 word ending triphones in input phone list
+INFO: mk_mdef_gen.c(280): Reading dict /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/etc/digit.dic
+INFO: mk_mdef_gen.c(322): 17 words in dict /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/etc/digit.dic
+INFO: mk_mdef_gen.c(280): Reading dict /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/etc/digit.filler
+INFO: mk_mdef_gen.c(322): 3 words in dict /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/etc/digit.filler
+INFO: mk_mdef_gen.c(442): 20 words in dictionary
+INFO: mk_mdef_gen.c(443): 0 unique single word triphones in dictionary
+INFO: mk_mdef_gen.c(444): 144 unique word beginning triphones in dictionary
+INFO: mk_mdef_gen.c(445): 17 unique word internal triphones in dictionary
+INFO: mk_mdef_gen.c(446): 192 unique word ending triphones in dictionary
+INFO: mk_mdef_gen.c(479): Out of vocabulary words in transcript will be mapped to SIL!
+INFO: mk_mdef_gen.c(593): 9573 words in transcripts
+INFO: mk_mdef_gen.c(594): 0 single word triphones in transcripts
+INFO: mk_mdef_gen.c(595): 8373 word beginning triphones in transcripts
+INFO: mk_mdef_gen.c(596): 7742 word internal triphones in transcripts
+INFO: mk_mdef_gen.c(597): 8373 word ending triphones in transcripts
+INFO: mk_mdef_gen.c(640): 24488 triphones extracted from transcripts
+INFO: mk_mdef_gen.c(641): 295 unique triphones extracted from transcripts
+INFO: mk_mdef_gen.c(642): 9 triphones occur once in the transcripts
+INFO: mk_mdef_gen.c(643): 9 triphones occur twice in the transcripts
+INFO: mk_mdef_gen.c(644): 4 triphones occur thrice in the transcripts
+INFO: mk_mdef_gen.c(645): The rest of the triphones occur more than three times
+INFO: mk_mdef_gen.c(646): Count threshold is 1
+INFO: mk_mdef_gen.c(897): 31 n_base, 295 n_tri
+INFO: mk_mdef_gen.c(969): Wrote mdef file /home/nguyenvanthinh/Desktop/Git/speech recognition  demo/digit/model_architecture/digit.untied.mdef
+Thu Apr  7 00:44:31 2016
