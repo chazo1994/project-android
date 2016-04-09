@@ -1,6 +1,5 @@
+digit.arpa
 digit.dict
-digit.lm.DMP
-digit.lm.bin
 digit/feat.params
 digit/mdef
 digit/means

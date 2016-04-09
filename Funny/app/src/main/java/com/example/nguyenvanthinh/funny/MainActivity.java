@@ -40,8 +40,7 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
         tvResult = (TextView) findViewById(R.id.result);
         tvError = (TextView) findViewById(R.id.error);
 
-
-
+        tvError.setText("Click button to start");
         new AsyncTask<Void,Void,Exception>(){
 
             @Override
@@ -64,26 +63,24 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
             @Override
             protected void onProgressUpdate(Void... values) {
                 super.onProgressUpdate(values);
-                tvError.setText("STARTING");
             }
 
             @Override
             protected void onPostExecute(Exception result) {
                 super.onPostExecute(result);
-                tvError.setText("STARTING");
                 if(result != null) {
                     tvError.setText("Failed to init recognizer " + result );
                 } else {
-
-                    tvError.setText("STARTING");
                     FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
                     fab.setOnClickListener(new View.OnClickListener() {
                         @Override
                         public void onClick(View view) {
-                            Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                            Snackbar.make(view, "Nguyễn Văn Thịnh", Snackbar.LENGTH_LONG)
                                     .setAction("Action", null).show();
-                            speechRecognizer.startListening(KWS_SEARCH, 10000);
-                            tvError.setText("STARTING");
+                            tvError.setText("Preparing to the recognizer...");
+                            startListening();
+
+
                         }
                     });
                 }
@@ -113,6 +110,17 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
         return super.onOptionsItemSelected(item);
     }
 
+    private void startListening() {
+        stopListening();
+        speechRecognizer.startListening(KWS_SEARCH, 10000);
+
+
+    }
+
+    private void stopListening(){
+        speechRecognizer.stop();
+
+    }
     private void setupRecognitzer(File assetsDir) throws IOException {
         // configure recognizer
 
@@ -129,8 +137,8 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
         // and add phonetic search
         //speechRecognizer.addKeyphraseSearch(KWS_SEARCH, KEYPHRASE);
 
-        File languageModel = new File(assetsDir,"digit.lm.DMP");
-        speechRecognizer.addNgramSearch("KWS_SEARCH", languageModel);
+        File languageModel = new File(assetsDir,"digit.arpa");
+        speechRecognizer.addNgramSearch(KWS_SEARCH, languageModel);
     }
 
     @Override
@@ -140,7 +148,9 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
 
     @Override
     public void onEndOfSpeech() {
-
+        stopListening();
+        tvError.setText("Starting");
+        startListening();
     }
 
     @Override
@@ -149,6 +159,7 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
             return;
         String text =hypothesis.getHypstr();
         tvResult.setText(text);
+
 
     }
 
@@ -169,7 +180,7 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
 
     @Override
     public void onTimeout() {
-        speechRecognizer.stop();
+        stopListening();
     }
 
     @Override
