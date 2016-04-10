@@ -29,7 +29,13 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
     private static final String KEYPHRASE = "ba";
 
     private TextView tvResult;
+    private TextView tvResultNumber;
     private TextView tvError;
+    private String number[] = {"khoong","moojt","hai","ba","boosn","nawm","sasu","baary","tasm","chisn","muwowfi","muwowi",
+            "moost","nghifn","trawm","linh","tuw"};
+    private String numberCorrespond[] = {"không","một","hai","ba","bốn","năm","sáu","bẩy","tám","chín","mười","mươi",
+            "mốt","nghìn","trăm","linh","tư"};
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -38,6 +44,7 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
         setSupportActionBar(toolbar);
 
         tvResult = (TextView) findViewById(R.id.result);
+        tvResultNumber = (TextView) findViewById(R.id.tvResultNumber);
         tvError = (TextView) findViewById(R.id.error);
 
         tvError.setText("Click button to start");
@@ -158,7 +165,8 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
         if(hypothesis == null)
             return;
         String text =hypothesis.getHypstr();
-        tvResult.setText(text);
+        tvResult.setText(converSequence(text));
+        tvResultNumber.setText(convertSequenceToNumber(text));
 
 
     }
@@ -167,7 +175,9 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
     public void onResult(Hypothesis hypothesis) {
         if(hypothesis != null){
             String text = hypothesis.getHypstr();
-            tvResult.setText(text);
+            tvResult.setText(converSequence(text));
+            tvResultNumber.setText(convertSequenceToNumber(text));
+
         }
 
     }
@@ -189,4 +199,81 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
         speechRecognizer.cancel();
         speechRecognizer.shutdown();
     }
+
+
+
+    //below code to convert sequence ascii to unicode and convert sequence ascii to number
+
+    String detectNumberToString(String inputNumber) {
+       // string line =""
+       int i = 0, length = number.length;
+
+        for(i=0;i<length;i++){
+            if(number[i].equals(inputNumber)){
+               return numberCorrespond[i];
+            }
+        }
+        return null;
+    }
+
+    String converSequence(String stringDetect) {
+        int i,j=0, length = stringDetect.length();
+        String line = "";
+
+        for(i = 0;i<length;i++) {
+            if(Character.isWhitespace(stringDetect.charAt(i))){
+                line = line + detectNumberToString(stringDetect.substring(j, i)) + " ";
+                j = i+1;
+            }
+            if(i == (length-1)){
+                line = line + detectNumberToString(stringDetect.substring(j, i+1));
+            }
+        }
+
+        return line;
+    }
+
+    String detectNumberToNumber(String inputNumber) {
+
+        for(int i = 0;i<number.length;i++){
+            if(number[i].equals(inputNumber)) {
+                if(i<10){
+                    return String.valueOf(i);
+                } else if(i == 13 || i == 14 ) {
+                    return "";
+                } else if(i == 11 || i == 15) {
+                    return "0";
+                } else if (i == 10 || i == 12) {
+                    return "1";
+                } else {
+                    return "4";
+                }
+            }
+        }
+
+        return "";
+    }
+
+    String convertSequenceToNumber(String stringDetect) {
+        int i,j=0, length = stringDetect.length();
+        String line = "";
+
+        for(i = 0;i<length;i++) {
+            if(Character.isWhitespace(stringDetect.charAt(i))){
+                line = line + detectNumberToNumber(stringDetect.substring(j,i));
+                j = i+1;
+            }
+            if(i == (length-1)) {
+                String temp = stringDetect.substring(j,i+1);
+                if (temp.equals("muwowfi")) {
+                    line = line + detectNumberToNumber(stringDetect.substring(j,i+1)) +"0";
+                } else {
+                    line = line +detectNumberToNumber(stringDetect.substring(j,i+1));
+                }
+            }
+        }
+
+        return line;
+    }
+
 }
