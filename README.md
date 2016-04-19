@@ -6,7 +6,7 @@ this project android include all project write in android studio by me. i don't 
 this app have four filter is lowpassfilter, bandpassfilter, hightpassfilter and bandstopfilter.
 - Funny project to demo application recognition digit, this take speech signal frm micro and put into automatic speech recognition is contained
 files of acoustic model and language model
-- Ibsona project is in processing development.
+- Ibsona project is in development processing.
 - weather project to build weather application, this app take weather data from internet(website openweather) and display to a activity. this is the first app by me
 - speech recognition project to build acoustic model and languague model for recognition digit
 
