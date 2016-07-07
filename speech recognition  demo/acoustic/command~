@@ -1,0 +1,9 @@
+pocketsphinx_batch \
+ -adcin yes \
+ -cepdir wav \
+ -cepext .wav \
+ -ctl digit_test.fileids \
+ -lm digit.lm.bin \
+ -dict digit.dict \
+ -hmm digit \
+ -hyp test.hyp

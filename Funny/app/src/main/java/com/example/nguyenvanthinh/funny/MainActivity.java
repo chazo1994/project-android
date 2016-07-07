@@ -131,8 +131,8 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
     private void setupRecognitzer(File assetsDir) throws IOException {
         // configure recognizer
 
-        speechRecognizer = defaultSetup().setAcousticModel(new File(assetsDir,"digit"))
-                .setDictionary(new File(assetsDir, "digit.dict"))
+        speechRecognizer = defaultSetup().setAcousticModel(new File(assetsDir,"vnspeech"))
+                .setDictionary(new File(assetsDir, "VNSpeechCorpusPlus.dict"))
                 .setRawLogDir(assetsDir)
                 .setKeywordThreshold(1e-45f)
                 .setBoolean("-allphone_ci",true)
@@ -144,7 +144,7 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
         // and add phonetic search
         //speechRecognizer.addKeyphraseSearch(KWS_SEARCH, KEYPHRASE);
 
-        File languageModel = new File(assetsDir,"digit.arpa");
+        File languageModel = new File(assetsDir,"VNSpeechCorpusPlus.arpa");
         speechRecognizer.addNgramSearch(KWS_SEARCH, languageModel);
     }
 
@@ -165,8 +165,12 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
         if(hypothesis == null)
             return;
         String text =hypothesis.getHypstr();
-        tvResult.setText(converSequence(text));
-        tvResultNumber.setText(convertSequenceToNumber(text));
+      //  tvResult.setText(converSequence(text));
+      //  tvResultNumber.setText(convertSequenceToNumber(text));
+
+        tvResult.setText((text));
+         tvResultNumber.setText((text));
+
 
 
     }
@@ -175,9 +179,8 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
     public void onResult(Hypothesis hypothesis) {
         if(hypothesis != null){
             String text = hypothesis.getHypstr();
-            tvResult.setText(converSequence(text));
-            tvResultNumber.setText(convertSequenceToNumber(text));
-
+            tvResult.setText((text));
+            tvResultNumber.setText((text));
         }
 
     }
@@ -191,6 +194,7 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
     @Override
     public void onTimeout() {
         stopListening();
+        startListening();
     }
 
     @Override

@@ -1,9 +1,0 @@
-digit.arpa
-digit.dict
-digit/feat.params
-digit/mdef
-digit/means
-digit/mixture_weights
-digit/noisedict
-digit/transition_matrices
-digit/variances

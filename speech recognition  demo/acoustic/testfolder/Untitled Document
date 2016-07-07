@@ -1,0 +1,11 @@
+pocketsphinx_batch \
+ -adcin yes \
+ -cepdir test \
+ -cepext .wav \
+ -ctl digit_test.fileids \
+ -lm digit.lm.DMP \
+ -dict digit.dic \
+ -hmm digit \
+ -hyp test.hyp
+
+word_align.pl test.transcription test.hyp

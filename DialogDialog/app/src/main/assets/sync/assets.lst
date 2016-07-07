@@ -1,0 +1,9 @@
+VNSpeechCorpusPlus.arpa
+VNSpeechCorpusPlus.dict
+dialog/feat.params
+dialog/mdef
+dialog/means
+dialog/mixture_weights
+dialog/noisedict
+dialog/transition_matrices
+dialog/variances

@@ -1,0 +1,9 @@
+VNSpeechCorpusPlus.arpa
+VNSpeechCorpusPlus.dict
+news/feat.params
+news/mdef
+news/means
+news/mixture_weights
+news/noisedict
+news/transition_matrices
+news/variances
