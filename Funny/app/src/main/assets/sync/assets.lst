@@ -1,0 +1,9 @@
+VNSpeechCorpusPlus.arpa
+VNSpeechCorpusPlus.dict
+vnspeech/feat.params
+vnspeech/mdef
+vnspeech/means
+vnspeech/mixture_weights
+vnspeech/noisedict
+vnspeech/transition_matrices
+vnspeech/variances
