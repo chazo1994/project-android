@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MCmaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="maps_api_key">AIzaSyBYRqdj06FDr7w0Z4jYcrvQovnuVPH1lbM</string>
+</resources>
